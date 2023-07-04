@@ -1,2 +1,2 @@
-# Thaumcraft
+# 🪄 Thaumcraft
 

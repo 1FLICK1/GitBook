@@ -2,7 +2,7 @@
 description: Вы попали на страничку гайда по самописным модам проекта LoliLand
 ---
 
-# LoliLand Addons
+# 🌀 LoliLand Addons
 
 <mark style="color:yellow;">**LoliLand Addons**</mark> - моды, которые были созданы проектом **LoliLand**, с целью разнообразить игру на наших серверах. Среди них вы сможете найти как аддоны, так и совершенно новые моды со своей уникальной механикой.
 
@@ -18,10 +18,6 @@ description: Вы попали на страничку гайда по само�
 
 {% content-ref url="loliutility.md" %}
 [loliutility.md](loliutility.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="loliland-ic2-energistics/" %}
