@@ -25,6 +25,6 @@ coverY: 0
 {% endcontent-ref %}
 
 {% hint style="info" %}
-Created by **SNARKI**:heart:\
+Created by **1FLICK1**:heart:\
 Source - [**FTB Wiki**](https://ftbwiki.org) :notebook:
 {% endhint %}
