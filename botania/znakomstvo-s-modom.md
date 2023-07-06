@@ -43,9 +43,12 @@ layout:
 ## Чистая Маргаритка ![](https://ftbwiki.org/images/a/a0/Grid\_Pure\_Daisy.png)
 
 Для большинства рецептов из мода нам не обойтись без [Чистой Маргаритки](#user-content-fn-3)[^3]\
-Функциональный цветок, который превращает определенные блоки, расположенные вокруг него, в другие блоки.\
-1\. Жизнекамень<img src="https://ftbwiki.org/images/7/7d/Grid_Livingrock.png" alt="" data-size="original"> \
-2\. Жизнедерево ![](https://ftbwiki.org/images/0/04/Grid\_Livingwood.png)
+Функциональный цветок, который превращает определенные блоки, [расположенные вокруг](#user-content-fn-4)[^4] него, в другие блоки.\
+Для начала нам понадобится:\
+1\. Камень![](https://ftbwiki.org/images/a/a6/Grid\_Stone.png) ---> Жизнекамень<img src="https://ftbwiki.org/images/7/7d/Grid_Livingrock.png" alt="" data-size="original"> \
+2\. Дерево![](https://ftbwiki.org/images/5/52/Grid\_Oak\_Wood.png) ---> Жизнедерево ![](https://ftbwiki.org/images/0/04/Grid\_Livingwood.png)
+
+## Первая Мана
 
 [^1]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126292032269336626/Screenshot\_1.png)\
     Нажмите `ПКМ` по траве, чтобы заспавнить несколько цветов.
@@ -53,3 +56,5 @@ layout:
 [^2]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126297094274158673/Screenshot\_2.png)
 
 [^3]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126524413668495461/Screenshot\_3.png)
+
+[^4]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126549901304672256/-2.png)
