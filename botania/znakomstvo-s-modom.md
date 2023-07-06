@@ -57,4 +57,4 @@ layout:
 
 [^3]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126524413668495461/Screenshot\_3.png)
 
-[^4]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126549901304672256/-2.png)
+[^4]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126552620828459008/-2.png)
