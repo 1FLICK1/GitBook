@@ -26,8 +26,8 @@ layout:
 ## Мистические цветы ![](https://cdn.discordapp.com/attachments/1125896171848732772/1126284817307271218/Mystical\_Flower.gif)
 
 Существует 16 видов цветов, которые случайном образом спавнятся по всему миру.\
-Для их получение можно также использовать [<mark style="color:green;">Цветочное Удобрение</mark>](#user-content-fn-1)[^1] ![](https://ftbwiki.org/images/6/65/Grid\_Floral\_Fertilizer.png) \
-:pushpin:<mark style="color:yellow;">**`Способ бесконечной добычи лепестков`**</mark>
+Для их получения можно также использовать [<mark style="color:green;">Цветочное Удобрение</mark>](#user-content-fn-1)[^1] ![](https://ftbwiki.org/images/6/65/Grid\_Floral\_Fertilizer.png) \
+:pushpin: [<mark style="color:yellow;">**`Способ бесконечной добычи лепестков`**</mark>](../interesno-znat/botania.md#beskonechnaya-dobycha-lepestkov)&#x20;
 
 ## Лепестковый Аптекарь <img src="https://ftbwiki.org/images/thumb/e/eb/Block_Petal_Apothecary.png/128px-Block_Petal_Apothecary.png" alt="" data-size="line">
 
@@ -48,7 +48,13 @@ layout:
 1\. Камень![](https://ftbwiki.org/images/a/a6/Grid\_Stone.png) ---> Жизнекамень<img src="https://ftbwiki.org/images/7/7d/Grid_Livingrock.png" alt="" data-size="original"> \
 2\. Дерево![](https://ftbwiki.org/images/5/52/Grid\_Oak\_Wood.png) ---> Жизнедерево ![](https://ftbwiki.org/images/0/04/Grid\_Livingwood.png)
 
+{% hint style="info" %}
+Превращение можно ускорить **в 2 раза** разместив чистую маргаритку на [<mark style="color:yellow;">**Зачарованной Почве**</mark>](../interesno-znat/botania.md#zacharovannaya-pochva):pushpin:
+{% endhint %}
+
 ## Первая Мана
+
+
 
 [^1]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126292032269336626/Screenshot\_1.png)\
     Нажмите `ПКМ` по траве, чтобы заспавнить несколько цветов.
