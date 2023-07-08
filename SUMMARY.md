@@ -1,7 +1,7 @@
 # Table of contents
 
 * [⭐ Добро пожаловать!](README.md)
-* [🌀 LoliLand Addons](loliland-addons/README.md)
+* [🌐 LoliLand Addons](loliland-addons/README.md)
   * [LoliTechnologies](loliland-addons/lolitechnologies.md)
   * [LoliUtility](loliland-addons/loliutility.md)
   * [LoliLand: IC2 Energistics](loliland-addons/loliland-ic2-energistics/README.md)
