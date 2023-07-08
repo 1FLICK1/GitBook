@@ -13,6 +13,10 @@ coverY: 0
 [blood-magic.md](blood-magic.md)
 {% endcontent-ref %}
 
+{% content-ref url="botania.md" %}
+[botania.md](botania.md)
+{% endcontent-ref %}
+
 {% hint style="info" %}
 Created by 1FLICK1 :heart:
 {% endhint %}
