@@ -96,11 +96,14 @@ layout:
 
 [^5]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126552620828459008/-2.png)
 
-[^6]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126881576354058340/image.png) ![](https://media.discordapp.net/attachments/1125896171848732772/1126882109068427295/image.png)
+[^6]: Предмет для настройки механизмов\
+    ![](https://media.discordapp.net/attachments/1125896171848732772/1126881576354058340/image.png) ![](https://media.discordapp.net/attachments/1125896171848732772/1126882109068427295/image.png)
 
-[^7]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126880588331225128/image.png)
+[^7]: Блок для <mark style="color:orange;">**Передачи**</mark> Маны\
+    ![](https://media.discordapp.net/attachments/1125896171848732772/1126880588331225128/image.png)
 
-[^8]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126880909388423308/image.png)
+[^8]: Блок для <mark style="color:blue;">**Хранения**</mark> Маны\
+    ![](https://media.discordapp.net/attachments/1125896171848732772/1126880909388423308/image.png)
 
 [^9]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126886140771835944/image.png)
 
