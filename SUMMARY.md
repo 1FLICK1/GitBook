@@ -17,7 +17,7 @@
   * [Решение Ошибок](blood-magic/reshenie-oshibok.md)
 * [🌺 Botania](botania/README.md)
   * [Знакомство с модом](botania/znakomstvo-s-modom.md)
-  * [Работа с модом](botania/rabota-s-modom.md)
+  * [Мана](botania/mana.md)
 * [🌼 Alfheim](alfheim.md)
 * [🛠 Mekanism](mekanism/README.md)
   * [Приспособления](mekanism/prisposobleniya.md)
