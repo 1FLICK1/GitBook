@@ -28,7 +28,7 @@
   * [Приспособления](mekanism/prisposobleniya.md)
 * [⚔ DivineRPG](divinerpg.md)
 * [🪄 Thaumcraft](thaumcraft.md)
-* [🎬 Видеогайды](videogaidy.md)
+* [💫 Таблица Дропа Душ](tablica-dropa-dush.md)
 * [📌 Интересно знать](interesno-znat/README.md)
   * [Blood Magic](interesno-znat/blood-magic.md)
   * [Botania](interesno-znat/botania.md)
