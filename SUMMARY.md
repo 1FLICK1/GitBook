@@ -15,7 +15,7 @@
   * [Ритуалы](blood-magic/ritualy.md)
   * [Алхимия](blood-magic/alkhimiya.md)
   * [Решение Ошибок](blood-magic/reshenie-oshibok.md)
-* [🌺 Botania](botania/README.md)
+* [🌸 Botania](botania/README.md)
   * [Знакомство с модом](botania/znakomstvo-s-modom.md)
   * [Хранение Маны](botania/khranenie-many.md)
   * [Передача Маны](botania/peredacha-many.md)
