@@ -18,6 +18,30 @@ coverY: 0
 [znakomstvo-s-modom.md](znakomstvo-s-modom.md)
 {% endcontent-ref %}
 
+{% content-ref url="khranenie-many.md" %}
+[khranenie-many.md](khranenie-many.md)
+{% endcontent-ref %}
+
+{% content-ref url="peredacha-many.md" %}
+[peredacha-many.md](peredacha-many.md)
+{% endcontent-ref %}
+
+{% content-ref url="generaciya-many.md" %}
+[generaciya-many.md](generaciya-many.md)
+{% endcontent-ref %}
+
+{% content-ref url="terrastal-i-portal-v-elfkheim.md" %}
+[terrastal-i-portal-v-elfkheim.md](terrastal-i-portal-v-elfkheim.md)
+{% endcontent-ref %}
+
+{% content-ref url="gaiya.md" %}
+[gaiya.md](gaiya.md)
+{% endcontent-ref %}
+
+{% content-ref url="reshenie-oshibok.md" %}
+[reshenie-oshibok.md](reshenie-oshibok.md)
+{% endcontent-ref %}
+
 ## :pushpin: Для любознательных
 
 {% content-ref url="../interesno-znat/botania.md" %}
