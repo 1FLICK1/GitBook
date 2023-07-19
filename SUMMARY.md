@@ -24,7 +24,7 @@
   * [Гайя](botania/gaiya.md)
   * [📄 Решение Ошибок](botania/reshenie-oshibok.md)
 * [🌼 Alfheim](alfheim.md)
-* [🛠 Mekanism](mekanism/README.md)
+* [🔧 Mekanism](mekanism/README.md)
   * [Приспособления](mekanism/prisposobleniya.md)
 * [⚔ DivineRPG](divinerpg.md)
 * [🪄 Thaumcraft](thaumcraft.md)
