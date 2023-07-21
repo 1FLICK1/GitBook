@@ -44,6 +44,10 @@ layout:
 <mark style="color:purple;">**Объём Всплеска Маны**</mark> - 640 ед.\
 <mark style="color:yellow;">**Расстояние передачи без потерь**</mark> - 48 блоков
 
+### Мауфтриевый Распространитель Маны ![](https://media.discordapp.net/attachments/1125896171848732772/1132065882944835624/ElvoriumSpreader.png)
+
+
+
 :pushpin: <mark style="color:yellow;">**`Распространители маны из мода LoliMagically`**</mark>&#x20;
 
 ## Искры![](https://cdn.discordapp.com/attachments/1125896171848732772/1132059238114537612/spark0.gif)
