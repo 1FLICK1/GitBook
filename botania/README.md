@@ -50,5 +50,7 @@ coverY: 0
 
 {% hint style="info" %}
 Created by **1FLICK1**:heart:\
-Source - [**FTB Wiki**](https://ftbwiki.org) :notebook:
+Sources:\
+[**FTB Wiki**](https://ftbwiki.org) :notebook:\
+[**BotaniaMod**](https://botaniamod.net/index.html):green\_book:
 {% endhint %}

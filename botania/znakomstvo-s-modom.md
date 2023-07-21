@@ -73,6 +73,8 @@ layout:
 Спустя 3 игровых дня высыхают, превращаясь в мёртвый куст.
 {% endhint %}
 
+### Привязка цветов
+
 Берём в руки Посох Леса <img src="https://ftbwiki.org/images/8/86/Grid_Wand_of_the_Forest.png" alt="" data-size="line">\
 `Shift + ПКМ` по цветку --> `Shift + ПКМ` по Распространителю\
 `Shift + ПКМ` по Распространителю --> `Shift + ПКМ` по Бассейну
