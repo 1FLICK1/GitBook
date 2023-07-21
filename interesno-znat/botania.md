@@ -23,7 +23,7 @@ layout:
 
 ## Зачарованная Почва <img src="https://ftbwiki.org/images/thumb/5/52/Block_Enchanted_Soil.png/128px-Block_Enchanted_Soil.png" alt="" data-size="line">
 
-Для создания нам понадобится <mark style="color:blue;">**Семя Разрастания**</mark> ![](https://ftbwiki.org/images/1/18/Grid\_Overgrowth\_Seed.gif)\
+Для создания нам понадобится <mark style="color:blue;">**Семя Разрастания**</mark> ![](https://cdn.discordapp.com/attachments/1125896171848732772/1132064735018369134/overgrowthSeed.gif)\
 Нажмите `ПКМ` семенем по траве, чтобы получить Зачарованную Почву
 
 Позволяет [**пассивным цветам**](#user-content-fn-1)[^1], генерирующим ману, не погибать от времени.\
