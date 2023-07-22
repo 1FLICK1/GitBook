@@ -55,6 +55,8 @@ layout:
 
 Отличительным свойством является возможность экипировки в слоты Baubles
 
+:pushpin: <mark style="color:yellow;">**`Кольца маны из мода Alfheim`**</mark>&#x20;
+
 :pushpin: <mark style="color:yellow;">**`Кольца Маны из мода LoliMagically`**</mark>&#x20;
 
 ## Зеркало Маны ![](https://ftbwiki.org/images/7/7d/Grid\_Mana\_Mirror.png)
