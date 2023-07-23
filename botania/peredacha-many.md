@@ -25,8 +25,8 @@ layout:
 Распространитель не будет посылать всплески маны, если не обнаружит действительный блок приема. Он не отправит новую порцию, пока не будет получен последний отправленный.
 
 {% hint style="info" %}
-Для настройки используйте Посох Леса<img src="https://ftbwiki.org/images/8/86/Grid_Wand_of_the_Forest.png" alt="" data-size="line">\
-Можно включить / выключить подачу маны используя <mark style="color:red;">**Redstone-сигнал**</mark><img src="https://ftbwiki.org/images/f/fd/Grid_Redstone.png" alt="" data-size="line">\
+Для настройки используйте Посох Леса<img src="https://cdn.discordapp.com/attachments/1132752515776135289/1132761510423298158/Posoh_Lesa.gif" alt="" data-size="line">\
+Можно включить / выключить подачу маны используя <mark style="color:red;">**Redstone-сигнал**</mark><img src="https://media.discordapp.net/attachments/1132757208694796420/1132763631994540134/Grid_Redstone.png" alt="" data-size="line">\
 Чтобы убрать шум от распространителя нажмите **`ПКМ`** используя Шерсть<img src="https://ftbwiki.org/images/3/37/Grid_Wool.png" alt="" data-size="line">&#x20;
 {% endhint %}
 
@@ -68,7 +68,7 @@ layout:
 <mark style="color:blue;">**Максимальная дальность**</mark> - 12 блоков
 
 Для передачи установите две искры на ваши хранилища маны, нажав **`ПКМ`**.\
-Для проверки соединения возьмите Посох Леса<img src="https://ftbwiki.org/images/8/86/Grid_Wand_of_the_Forest.png" alt="" data-size="line"> и нажмите **`ПКМ`** по любой искре.\
+Для проверки соединения возьмите Посох Леса<img src="https://cdn.discordapp.com/attachments/1132752515776135289/1132761510423298158/Posoh_Lesa.gif" alt="" data-size="line"> и нажмите **`ПКМ`** по любой искре.\
 Соединение между искрами будет визуализировано.
 
 Однако не всегда достаточно просто поставить искру, чтобы она передавала ману.\

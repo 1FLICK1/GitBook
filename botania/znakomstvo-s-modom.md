@@ -14,7 +14,7 @@ layout:
 
 # Знакомство с модом
 
-## Лексикон Botania ![](https://ftbwiki.org/images/a/a6/Grid\_Lexica\_Botania.png)
+## Лексикон Botania ![](https://media.discordapp.net/attachments/1132752657367449731/1132756836530012190/dc6274398284d72f.png)
 
 Вся информация об этом моде тщательно задокументирована в этой книге. \
 Знания поделены на несколько разделов. Также имеется поисковик.
@@ -26,31 +26,31 @@ layout:
 ## Мистические цветы ![](https://cdn.discordapp.com/attachments/1125896171848732772/1126284817307271218/Mystical\_Flower.gif)
 
 Существует 16 видов цветов, которые случайном образом спавнятся по всему миру.\
-Для их получения можно также использовать [<mark style="color:green;">Цветочное Удобрение</mark>](#user-content-fn-1)[^1] ![](https://ftbwiki.org/images/6/65/Grid\_Floral\_Fertilizer.png) \
+Для их получения можно также использовать [<mark style="color:green;">Цветочное Удобрение</mark>](#user-content-fn-1)[^1] ![](https://media.discordapp.net/attachments/1132752657367449731/1132758408974581820/6b59971d3e1ec6fc.png) \
 :pushpin: [<mark style="color:yellow;">**`Способ бесконечной добычи лепестков`**</mark>](../interesno-znat/botania.md#beskonechnaya-dobycha-lepestkov)&#x20;
 
 {% hint style="success" %}
-Для удобного сбора цветов рекомендуем использовать [Цветочный мешочек](#user-content-fn-2)[^2] <img src="https://ftbwiki.org/images/1/11/Grid_Flower_Pouch.png" alt="" data-size="original">
+Для удобного сбора цветов рекомендуем использовать [Цветочный мешочек](#user-content-fn-2)[^2] <img src="https://media.discordapp.net/attachments/1132752657367449731/1132758486263017612/64839bcf4047f195.png" alt="" data-size="original">
 {% endhint %}
 
-## Лепестковый Аптекарь <img src="https://ftbwiki.org/images/thumb/e/eb/Block_Petal_Apothecary.png/128px-Block_Petal_Apothecary.png" alt="" data-size="line">
+## Лепестковый Аптекарь ![](https://media.discordapp.net/attachments/1132756596280262778/1132756793710346240/44e4eb129800d6f3.png)
 
 Далее нам понадобится [Лепестковый Аптекарь](#user-content-fn-3)[^3].
 
 Для работы с ним нужно:\
-1\. Вода<img src="https://ftbwiki.org/images/6/69/Grid_Water_Bucket_(Minecraft).png" alt="" data-size="line">\
-2\. Компоненты крафта<img src="https://ftbwiki.org/images/0/08/Item_Mystical_White_Petal.png" alt="" data-size="line">\
-3\. Семена Пшеницы<img src="https://ftbwiki.org/images/9/9f/Item_Seeds.png" alt="" data-size="line">\
+1\. Вода <img src="https://media.discordapp.net/attachments/1132757208694796420/1132757459002470501/Grid_Water_Bucket_Minecraft.png" alt="" data-size="line">\
+2\. Компоненты крафта<img src="https://media.discordapp.net/attachments/1132752657367449731/1132754218634203228/petal.png" alt="" data-size="line">\
+3\. Семена Пшеницы<img src="https://media.discordapp.net/attachments/1132757208694796420/1132757445358407781/Item_Seeds.png" alt="" data-size="line">\
 \
 Через `ПКМ` заливаем воду в Аптекарь, забрасываем все компоненты крафта и завершающее семечко пшеницы.
 
-## Чистая Маргаритка![](https://ftbwiki.org/images/a/a0/Grid\_Pure\_Daisy.png)
+## Чистая Маргаритка![](https://media.discordapp.net/attachments/1132752267045511329/1132757865879322705/3feae18b6bd62f93.png)
 
 Для большинства рецептов из мода нам не обойтись без [Чистой Маргаритки](#user-content-fn-4)[^4]\
 Функциональный цветок, который превращает определенные блоки, [расположенные вокруг](#user-content-fn-5)[^5] него, в другие блоки.\
 Для начала нам понадобится:\
-1\. Камень![](https://ftbwiki.org/images/a/a6/Grid\_Stone.png) ---> Жизнекамень<img src="https://ftbwiki.org/images/7/7d/Grid_Livingrock.png" alt="" data-size="original"> \
-2\. Дерево![](https://ftbwiki.org/images/5/52/Grid\_Oak\_Wood.png) ---> Жизнедерево ![](https://ftbwiki.org/images/0/04/Grid\_Livingwood.png)
+1\. Камень![](https://media.discordapp.net/attachments/1132757183579308114/1132757501423665262/Grid\_Stone.png) ---> Жизнекамень<img src="https://media.discordapp.net/attachments/1132756596280262778/1132758133312327710/7e9b795737efe81a.png" alt="" data-size="original"> \
+2\. Дерево![](https://media.discordapp.net/attachments/1132757183579308114/1132757490807885906/Grid\_Oak\_Wood.png) ---> Жизнедерево ![](https://media.discordapp.net/attachments/1132756596280262778/1132758151381389373/ac0b8a3829ee2320.png)
 
 {% hint style="info" %}
 Превращение можно ускорить **в 2 раза** разместив чистую маргаритку на [<mark style="color:yellow;">**Зачарованной Почве**</mark>](../interesno-znat/botania.md#zacharovannaya-pochva):pushpin:
@@ -59,13 +59,13 @@ layout:
 ## Первая Мана<img src="../.gitbook/assets/Mana.png" alt="" data-size="line">
 
 Для начала работы с <mark style="color:blue;">маной</mark> нам понадобятся:\
-1\. [Посох Леса](#user-content-fn-6)[^6] ![](https://ftbwiki.org/images/8/86/Grid\_Wand\_of\_the\_Forest.png)\
-2\. [Распространитель Маны](#user-content-fn-7)[^7] <img src="https://ftbwiki.org/images/8/84/Grid_Mana_Spreader.png" alt="" data-size="original">\
-3\. [Бассейн Маны](#user-content-fn-8)[^8] ![](https://ftbwiki.org/images/0/07/Grid\_Mana\_Pool.png)\
+1\. [Посох Леса](#user-content-fn-6)[^6] ![](https://cdn.discordapp.com/attachments/1132752515776135289/1132761510423298158/Posoh\_Lesa.gif)\
+2\. [Распространитель Маны](#user-content-fn-7)[^7] <img src="https://media.discordapp.net/attachments/1132756596280262778/1132763907744858182/592256fa986ca7ed.png" alt="" data-size="original">\
+3\. [Бассейн Маны](#user-content-fn-8)[^8] ![](https://media.discordapp.net/attachments/1132756596280262778/1132764294849773701/4c53cc01f5e93ffe.png)\
 4\. Цветок, генерирующий ману
 
 В качестве первого цветка генерирующий ману у вас есть выбор:\
-1\. [Дневной цветок](#user-content-fn-9)[^9] ![](https://ftbwiki.org/images/6/60/Grid\_Daybloom.png)--> Генерирует ману <mark style="color:yellow;">Днём</mark>\
+1\. [Дневной цветок](#user-content-fn-9)[^9] ![](https://media.discordapp.net/attachments/1132752267045511329/1132764426009845800/44ef96684b405138.png)--> Генерирует ману <mark style="color:yellow;">Днём</mark>\
 2\. Паслён[^10]![](https://ftbwiki.org/images/b/be/Grid\_Nightshade.png) --> Генерирует ману <mark style="color:purple;">Ночью</mark>&#x20;
 
 {% hint style="warning" %}
@@ -75,7 +75,7 @@ layout:
 
 ### Привязка цветов
 
-Берём в руки Посох Леса <img src="https://ftbwiki.org/images/8/86/Grid_Wand_of_the_Forest.png" alt="" data-size="line">\
+Берём в руки Посох Леса <img src="https://cdn.discordapp.com/attachments/1132752515776135289/1132761510423298158/Posoh_Lesa.gif" alt="" data-size="line">\
 `Shift + ПКМ` по цветку --> `Shift + ПКМ` по Распространителю\
 `Shift + ПКМ` по Распространителю --> `Shift + ПКМ` по Бассейну
 
@@ -101,30 +101,31 @@ layout:
 
 Как крафт будет готов, положите на алтарь Жизнекамень и нажмите `ПКМ` Посохом Леса
 
-[^1]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126292032269336626/Screenshot\_1.png)\
+[^1]: ![](https://media.discordapp.net/attachments/1132752475930251354/1132754152322244710/Screenshot\_1.png)\
     Нажмите `ПКМ` по траве, чтобы заспавнить несколько цветов.
 
 [^2]: Все цветы, которые вы подберёте будут автоматически туда помещаться.\
-    ![](https://media.discordapp.net/attachments/1125896171848732772/1126923153432662171/image.png)
+    ![](https://media.discordapp.net/attachments/1132752475930251354/1132755246318366750/image.png)
 
-[^3]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126297094274158673/Screenshot\_2.png)
+[^3]: ![](https://media.discordapp.net/attachments/1132752475930251354/1132754306030915674/Screenshot\_2.png)
 
 [^4]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126524413668495461/Screenshot\_3.png)
 
 [^5]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126552620828459008/-2.png)
 
-[^6]: Предмет для настройки механизмов\
-    ![](https://media.discordapp.net/attachments/1125896171848732772/1126881576354058340/image.png) ![](https://media.discordapp.net/attachments/1125896171848732772/1126882109068427295/image.png)
+[^6]: Предмет для настройки механизмов \
+    ![](https://media.discordapp.net/attachments/1132752475930251354/1132755154962239568/image.png)\
+    ![](https://media.discordapp.net/attachments/1132752475930251354/1132755171517137037/image.png)[https://media.discordapp.net/attachments/1132752475930251354/1132755171517137037/image.png](https://media.discordapp.net/attachments/1132752475930251354/1132755171517137037/image.png)
 
 [^7]: Блок для <mark style="color:orange;">**Передачи**</mark> Маны\
-    ![](https://media.discordapp.net/attachments/1125896171848732772/1126880588331225128/image.png)
+    ![](https://media.discordapp.net/attachments/1132752475930251354/1132755103355510834/image.png)
 
 [^8]: Блок для <mark style="color:blue;">**Хранения**</mark> Маны\
-    ![](https://media.discordapp.net/attachments/1125896171848732772/1126880909388423308/image.png)
+    ![](https://media.discordapp.net/attachments/1132752475930251354/1132755142039576608/image.png)
 
-[^9]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126886140771835944/image.png)
+[^9]: ![](https://media.discordapp.net/attachments/1132752475930251354/1132755190139863141/image.png)
 
-[^10]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126886400596394125/image.png)
+[^10]: ![](https://media.discordapp.net/attachments/1132752475930251354/1132755207667851374/image.png)
 
 [^11]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126902616341880832/-1.png)
 
