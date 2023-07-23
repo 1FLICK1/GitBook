@@ -18,4 +18,4 @@ layout:
 
 
 
-<table data-full-width="true"><thead><tr><th width="101">Вид</th><th width="159">Название</th><th width="258">Описание</th><th>Примечание</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="88">Вид</th><th width="152">Название</th><th width="223">Описание</th><th>Примечание</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
