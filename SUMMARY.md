@@ -22,6 +22,7 @@
   * [Генерация Маны](botania/generaciya-many.md)
   * [Террасталь и Портал в Эльфхейм](botania/terrastal-i-portal-v-elfkheim.md)
   * [Гайя](botania/gaiya.md)
+  * [Функциональные Цветы](botania/funkcionalnye-cvety.md)
   * [📄 Решение Ошибок](botania/reshenie-oshibok.md)
 * [🌼 Alfheim](alfheim/README.md)
   * [Вещи](alfheim/veshi.md)
