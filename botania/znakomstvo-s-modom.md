@@ -86,13 +86,13 @@ layout:
 К одному Распространителю можно привязывать сразу несколько цветов.
 {% endhint %}
 
-## Рунический Алтарь![](https://ftbwiki.org/images/a/ad/Grid\_Runic\_Altar.png)
+## Рунический Алтарь![](https://media.discordapp.net/attachments/1132756596280262778/1133008573895557120/ff558c8ca91016cd.png)
 
 Дальнейшее развития мода не обойдётся без [Рунического Алтаря](#user-content-fn-12)[^12]
 
 Для работы с ним нам понадобится:\
-1\. Бассейн маны ![](https://ftbwiki.org/images/0/07/Grid\_Mana\_Pool.png)\
-2\. Распространитель маны ![](https://ftbwiki.org/images/8/84/Grid\_Mana\_Spreader.png)
+1\. Бассейн маны ![](https://media.discordapp.net/attachments/1132756596280262778/1132764294849773701/4c53cc01f5e93ffe.png)\
+2\. Распространитель маны ![](https://media.discordapp.net/attachments/1132756596280262778/1132763907744858182/592256fa986ca7ed.png)
 
 Поставьте Распространитель маны [<mark style="color:red;">**вплотную**</mark>](#user-content-fn-13)[^13] к вашему Бассейну и направьте его к Алтарю.\
 Таким образом мы запитали его маной и теперь можно работать с рецептами.
@@ -129,6 +129,6 @@ layout:
 
 [^11]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126902616341880832/-1.png)
 
-[^12]: ![](https://media.discordapp.net/attachments/1125896171848732772/1128643606782148668/image.png)
+[^12]: ![](https://media.discordapp.net/attachments/1132752475930251354/1132755265574404286/image.png)
 
 [^13]: ![](https://media.discordapp.net/attachments/1125896171848732772/1128647790185164841/-1.png)

@@ -14,7 +14,7 @@ layout:
 
 # Передача Маны
 
-## Распространители Маны ![](https://media.discordapp.net/attachments/1125896171848732772/1129806992786063380/--1.gif)
+## Распространители Маны ![](https://cdn.discordapp.com/attachments/1132752515776135289/1132755990375301170/--1.gif)
 
 Распространитель маны - блок, который импульсами передаёт ману на расстояние.\
 Способен собирать ману из <mark style="color:blue;">**генерирующих цветов**</mark> или из [**смежных**](#user-content-fn-1)[^1] <mark style="color:blue;">**хранилищ маны**</mark>.
@@ -27,10 +27,10 @@ layout:
 {% hint style="info" %}
 Для настройки используйте Посох Леса<img src="https://cdn.discordapp.com/attachments/1132752515776135289/1132761510423298158/Posoh_Lesa.gif" alt="" data-size="line">\
 Можно включить / выключить подачу маны используя <mark style="color:red;">**Redstone-сигнал**</mark><img src="https://media.discordapp.net/attachments/1132757208694796420/1132763631994540134/Grid_Redstone.png" alt="" data-size="line">\
-Чтобы убрать шум от распространителя нажмите **`ПКМ`** используя Шерсть<img src="https://ftbwiki.org/images/3/37/Grid_Wool.png" alt="" data-size="line">&#x20;
+Чтобы убрать шум от распространителя нажмите **`ПКМ`** используя Шерсть<img src="https://cdn.discordapp.com/attachments/1133011594125770754/1133011633208311848/Wool.gif" alt="" data-size="line">
 {% endhint %}
 
-### Распространитель Маны  ![](https://ftbwiki.org/images/8/84/Grid\_Mana\_Spreader.png)
+### Распространитель Маны  ![](https://media.discordapp.net/attachments/1132756596280262778/1132763907744858182/592256fa986ca7ed.png)
 
 [Распространитель Маны](#user-content-fn-3)[^3] - начальный блок для передачи маны. \
 Для создания требуется знание раздела [**Знакомство с модом**](znakomstvo-s-modom.md)&#x20;
@@ -39,7 +39,7 @@ layout:
 * <mark style="color:purple;">**Объём Всплеска Маны**</mark> - 160 ед.
 * <mark style="color:blue;">**Расстояние передачи без потерь**</mark> - 12 блоков
 
-### Эльфийский Распространитель Маны ![](https://ftbwiki.org/images/8/82/Grid\_Elven\_Mana\_Spreader.png)
+### Эльфийский Распространитель Маны ![](https://media.discordapp.net/attachments/1132756596280262778/1132764050762248222/74d312c8113a42cd.png)
 
 [Эльфийский Распространитель Маны](#user-content-fn-4)[^4] - улучшенный блок для передачи маны.\
 Для создания требуется знание раздела [**Портал в Эльфхейм**](terrastal-i-portal-v-elfkheim.md#portal-v-elfkheim)&#x20;
@@ -48,7 +48,7 @@ layout:
 * <mark style="color:purple;">**Объём Всплеска Маны**</mark> - 240 ед.
 * <mark style="color:blue;">**Расстояние передачи без потерь**</mark> - 20 блоков
 
-### Распространитель Маны Гайи ![](https://ftbwiki.org/images/5/57/Grid\_Gaia\_Mana\_Spreader.png)
+### Распространитель Маны Гайи ![](https://media.discordapp.net/attachments/1132756596280262778/1132764181662277833/1335129ad1987f0d.png)
 
 [Распространитель Маны Гайи](#user-content-fn-5)[^5] - продвинутый блок для передачи маны.\
 Для создания требуется знание раздела [**Гайя**](gaiya.md)&#x20;
@@ -61,7 +61,7 @@ layout:
 
 :pushpin: <mark style="color:yellow;">**`Распространители маны из мода LoliMagically`**</mark>&#x20;
 
-## Искры![](https://cdn.discordapp.com/attachments/1125896171848732772/1132435034830282802/spark.gif)
+## Искры![](https://cdn.discordapp.com/attachments/1132752515776135289/1132756006540152882/spark.gif)
 
 Искра[^6] - предмет, который используется для передачи маны между хранилищами маны без дополнительных распространителей.
 
@@ -74,13 +74,13 @@ layout:
 Однако не всегда достаточно просто поставить искру, чтобы она передавала ману.\
 Нужно её настроить. Для этого есть Дополнители Искр:
 
-<table><thead><tr><th width="94.33333333333331">Вид</th><th width="155">Название</th><th>Описание</th></tr></thead><tbody><tr><td><img src="https://media.discordapp.net/attachments/1125896171848732772/1132711819211976797/d1b4d91b1a2bb460.png" alt=""></td><td>Доминантный</td><td>Поглощает ману в хранилище из других искр</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1125896171848732772/1132711789415641210/4f163273741b2321.png" alt=""></td><td>Рецессивный</td><td>Раздаёт ману из хранилища другим искрам</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1125896171848732772/1132711798576005320/55973a6f20dc9281.png" alt=""></td><td>Рассеивающий</td><td>Заряжает предметы игрока маной из хранилища</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1125896171848732772/1132711810244550666/aafbbf40eb53250c.png" alt=""></td><td>Изолирующий</td><td>Предотвращает передачу маны в хранилище из других искр</td></tr></tbody></table>
+<table><thead><tr><th width="94.33333333333331">Вид</th><th width="155">Название</th><th>Описание</th></tr></thead><tbody><tr><td><img src="https://media.discordapp.net/attachments/1132752657367449731/1133012734414422066/1185a96caabe4be5.png" alt=""></td><td>Доминантный</td><td>Поглощает ману в хранилище из других искр</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1132752657367449731/1133012843772522557/5cf795b455475e2c.png" alt=""></td><td>Рецессивный</td><td>Раздаёт ману из хранилища другим искрам</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1132752657367449731/1133012813128933517/ae9d450e5861cbca.png" alt=""></td><td>Рассеивающий</td><td>Заряжает предметы игрока маной из хранилища</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1132752657367449731/1133012766769299536/a0b63d9b94bea576.png" alt=""></td><td>Изолирующий</td><td>Предотвращает передачу маны в хранилище из других искр</td></tr></tbody></table>
 
 {% hint style="success" %}
 О работе каждого из Дополнителей Искр можно прочитать в описании предмета на сервере нажав **`SHIFT`**
 {% endhint %}
 
-Чтобы снять дополнитель или саму искру нажмите по искре **`Shift + ПКМ`** Посохом Леса<img src="https://ftbwiki.org/images/8/86/Grid_Wand_of_the_Forest.png" alt="" data-size="line">
+Чтобы снять дополнитель или саму искру нажмите по искре **`Shift + ПКМ`** Посохом Леса<img src="https://cdn.discordapp.com/attachments/1132752515776135289/1132761510423298158/Posoh_Lesa.gif" alt="" data-size="line">
 
 :pushpin:<mark style="color:yellow;">**`Искры из мода LoliMagically`**</mark>&#x20;
 
@@ -88,7 +88,7 @@ layout:
 
 [^2]: Всплеск маны - порция маны, которую передаёт распространитель за 1 импульс.
 
-[^3]: ![](https://media.discordapp.net/attachments/1125896171848732772/1132024704182530068/image.png)
+[^3]: ![](https://media.discordapp.net/attachments/1132752475930251354/1132755103355510834/image.png)
 
 [^4]: ![](https://media.discordapp.net/attachments/1125896171848732772/1132299128605524058/-1.png)
 
