@@ -76,11 +76,11 @@ layout:
 
 <table><thead><tr><th width="94.33333333333331">Вид</th><th width="155">Название</th><th>Описание</th></tr></thead><tbody><tr><td><img src="https://media.discordapp.net/attachments/1132752657367449731/1133012734414422066/1185a96caabe4be5.png" alt=""></td><td>Доминантный</td><td>Поглощает ману в хранилище из других искр</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1132752657367449731/1133012843772522557/5cf795b455475e2c.png" alt=""></td><td>Рецессивный</td><td>Раздаёт ману из хранилища другим искрам</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1132752657367449731/1133012813128933517/ae9d450e5861cbca.png" alt=""></td><td>Рассеивающий</td><td>Заряжает предметы игрока маной из хранилища</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1132752657367449731/1133012766769299536/a0b63d9b94bea576.png" alt=""></td><td>Изолирующий</td><td>Предотвращает передачу маны в хранилище из других искр</td></tr></tbody></table>
 
+Чтобы снять дополнитель или саму искру нажмите по искре **`Shift + ПКМ`** Посохом Леса<img src="https://cdn.discordapp.com/attachments/1132752515776135289/1132761510423298158/Posoh_Lesa.gif" alt="" data-size="line">
+
 {% hint style="success" %}
 О работе каждого из Дополнителей Искр можно прочитать в описании предмета на сервере нажав **`SHIFT`**
 {% endhint %}
-
-Чтобы снять дополнитель или саму искру нажмите по искре **`Shift + ПКМ`** Посохом Леса<img src="https://cdn.discordapp.com/attachments/1132752515776135289/1132761510423298158/Posoh_Lesa.gif" alt="" data-size="line">
 
 :pushpin:<mark style="color:yellow;">**`Искры из мода LoliMagically`**</mark>&#x20;
 
