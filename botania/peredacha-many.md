@@ -42,7 +42,7 @@ layout:
 ### Эльфийский Распространитель Маны ![](https://media.discordapp.net/attachments/1132756596280262778/1132764050762248222/74d312c8113a42cd.png)
 
 [Эльфийский Распространитель Маны](#user-content-fn-4)[^4] - улучшенный блок для передачи маны.\
-Для создания требуется знание раздела [**Портал в Эльфхейм**](terrastal-i-portal-v-elfkheim.md#portal-v-elfkheim)&#x20;
+Для создания требуется знание раздела [**Портал в Эльфхейм**](terrastal.md#portal-v-elfkheim)&#x20;
 
 * <mark style="color:orange;">**Максимальный Объём -**</mark> 1000 маны
 * <mark style="color:purple;">**Объём Всплеска Маны**</mark> - 240 ед.

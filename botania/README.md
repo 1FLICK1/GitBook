@@ -30,8 +30,8 @@ coverY: 0
 [generaciya-many.md](generaciya-many.md)
 {% endcontent-ref %}
 
-{% content-ref url="terrastal-i-portal-v-elfkheim.md" %}
-[terrastal-i-portal-v-elfkheim.md](terrastal-i-portal-v-elfkheim.md)
+{% content-ref url="terrastal.md" %}
+[terrastal.md](terrastal.md)
 {% endcontent-ref %}
 
 {% content-ref url="gaiya.md" %}
