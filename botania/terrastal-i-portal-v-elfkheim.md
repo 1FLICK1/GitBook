@@ -27,15 +27,19 @@ layout:
 <figure><img src="https://cdn.discordapp.com/attachments/1135900043413565590/1135901318389710848/test.gif" alt=""><figcaption><p>Постройка структуры для создания Террастали</p></figcaption></figure>
 
 {% hint style="info" %}
-Подавать Ману еа Агломерационную Плиту нужно с помощью [**Искры**](peredacha-many.md#iskry)![](https://cdn.discordapp.com/attachments/1132752515776135289/1132756006540152882/spark.gif)
+Подавать Ману на Агломерационную Плиту нужно с помощью [**Искры**](peredacha-many.md#iskry)![](https://cdn.discordapp.com/attachments/1132752515776135289/1132756006540152882/spark.gif)
 {% endhint %}
 
 Для создания самого слитка нам понадобится:\
-1\. Слиток Манастали\
-2\. Манаалмаз\
-3\. Жемчуг Маны
+1\. Слиток Манастали ![](https://media.discordapp.net/attachments/1132752657367449731/1136330527205507212/f0de1d87682c0b0b.png)\
+2\. Маналмаз![](https://media.discordapp.net/attachments/1132752657367449731/1136330617513066516/592d409e14f057fe.png)\
+3\. Жемчуг Маны![](https://media.discordapp.net/attachments/1132752657367449731/1136330571929366662/2de9a681e1095736.png)
 
+Выложите все компоненты на Агломерационную Плиту, после этого начнётся крафт, который завершится только тогда, когда через искру поступит нужное количество Маны.
 
+{% hint style="warning" %}
+На 1 слиток требуется - <mark style="color:orange;">**1 000 000 маны**</mark>
+{% endhint %}
 
 ## Портал в Эльфхейм
 
