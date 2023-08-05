@@ -37,4 +37,3 @@
   * [Blood Magic](interesno-znat/blood-magic.md)
   * [Botania](interesno-znat/botania.md)
 * [🚀 Быстрые ответы на часто задаваемые вопросы](bystrye-otvety-na-chasto-zadavaemye-voprosy.md)
-* [TestPage](testpage.md)
