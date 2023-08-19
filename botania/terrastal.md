@@ -40,3 +40,5 @@ layout:
 {% hint style="warning" %}
 На 1 слиток требуется - <mark style="color:orange;">**1 000 000 маны**</mark>
 {% endhint %}
+
+&#x20;:pushpin: <mark style="color:yellow;">**`Завод Промышленной Агломерации`**</mark>&#x20;
