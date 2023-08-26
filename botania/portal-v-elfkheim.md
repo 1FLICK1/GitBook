@@ -16,6 +16,8 @@ layout:
 
 <mark style="color:blue;">**Мультиблочная структура, позволяющая обменивать у Эльфов одни ресурсы на другие.**</mark>
 
+## Стройка Портала
+
 Для его постройки нам понадобится:\
 1\. Жизнедерево x8 ![](https://media.discordapp.net/attachments/1132756596280262778/1132758151381389373/ac0b8a3829ee2320.png)\
 2\. [Светящееся Жизнедерево](#user-content-fn-1)[^1] x3 ![](https://media.discordapp.net/attachments/1132756596280262778/1143252974529957888/804853d6681dca6b.png)\
@@ -30,10 +32,38 @@ layout:
 
 <figure><img src="https://media.discordapp.net/attachments/1132765303110127717/1142532941822566481/-1.png" alt=""><figcaption><p>Структура Портала в Эльфхейм</p></figcaption></figure>
 
+## Активация Портала
 
+Для активации нажмите **`ПКМ`** по Ядру Эльфийских врат Посохом леса ![](https://cdn.discordapp.com/attachments/1132752515776135289/1132761510423298158/Posoh\_Lesa.gif)\
+Потреблять ману портал будет сразу с обоих бассейнов
+
+<mark style="color:blue;">**Затраты на активацию**</mark> - **75 000 маны** \
+<mark style="color:green;">**Расход маны активного портала**</mark> - **40 маны/сек**
+
+{% hint style="warning" %}
+Будьте внимательны! Если в 1 из бассейнов не будет хватать маны для активации, то портал всё равно потратит 75 000 из другого бассейна!
+{% endhint %}
+
+## Использование Портала
+
+После активации выбросьте нужный предмет в портал для обмена с Эльфами.\
+Все рецепты обмена можно просмотреть через NEI
+
+Жизнедерево ![](https://media.discordapp.net/attachments/1132756596280262778/1132758151381389373/ac0b8a3829ee2320.png) --> Древесина мечтаний ![](https://media.discordapp.net/attachments/1132756596280262778/1144990245901828126/53cc2b6331c8f0e3.png)\
+Манасталь x2 ![](https://cdn.discordapp.com/attachments/1132752515776135289/1144989644405088407/--1.gif) --> Элементий ![](https://cdn.discordapp.com/attachments/1132752515776135289/1144989669206016040/--2.gif)\
+Маналмаз ![](https://cdn.discordapp.com/attachments/1132752515776135289/1144991500527210506/--1.gif)  --> Камень Дракона ![](https://cdn.discordapp.com/attachments/1132752515776135289/1144991518055202908/--2.gif)\
+Жемчуг Маны ![](https://media.discordapp.net/attachments/1132752657367449731/1136330571929366662/2de9a681e1095736.png) --> Пыльца Феи ![](https://media.discordapp.net/attachments/1132752657367449731/1144990793464029315/016956143ce18462.png)
+
+{% hint style="info" %}
+С помощью Портала в Эльфхейм вы можете [улучшить Лексикон Botania](#user-content-fn-4)[^4] ![](https://media.discordapp.net/attachments/1132752657367449731/1132756836530012190/dc6274398284d72f.png)
+{% endhint %}
+
+:pushpin: <mark style="color:yellow;">**`Обменник Альфхейма`**</mark>&#x20;
 
 [^1]: ![](https://media.discordapp.net/attachments/1132752475930251354/1143260053013544970/-1.png)
 
 [^2]: ![](https://media.discordapp.net/attachments/1132752475930251354/1143260625053679737/image.png)
 
 [^3]: ![](https://media.discordapp.net/attachments/1132752475930251354/1143261924805591180/image.png)
+
+[^4]: Улучшенная версия Лексикона Botania откроет вам ранее скрытые знания
