@@ -12,6 +12,8 @@ coverY: 0
 <mark style="color:orange;">**В процессе создания**</mark>
 {% endhint %}
 
+{% embed url="https://miro.com/app/board/uXjVOjk5qsc=/" %}
+
 ## Путеводитель по разделу
 
 {% content-ref url="znakomstvo-s-modom.md" %}
