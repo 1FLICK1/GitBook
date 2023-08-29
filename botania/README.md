@@ -34,8 +34,8 @@ coverY: 0
 [terrastal.md](terrastal.md)
 {% endcontent-ref %}
 
-{% content-ref url="gaiya.md" %}
-[gaiya.md](gaiya.md)
+{% content-ref url="gaiya/" %}
+[gaiya](gaiya/)
 {% endcontent-ref %}
 
 {% content-ref url="reshenie-oshibok.md" %}
