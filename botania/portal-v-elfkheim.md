@@ -25,12 +25,12 @@ layout:
 4\. Бассейн Маны x2 ![](https://media.discordapp.net/attachments/1132756596280262778/1132764294849773701/4c53cc01f5e93ffe.png)\
 5\. [Природный Пилон](#user-content-fn-3)[^3] x2![](https://media.discordapp.net/attachments/1132756596280262778/1143261478716182608/28c269bf6869c46b.png)
 
-Саму структуру портала можно посмотреть на скриншоте ниже. \
+Саму структуру портала можно посмотреть на модели ниже. \
 Также, её можно визуализировать в игре с помощью Лексикона Botania:
 
-<mark style="background-color:blue;">**Лексикон Botania -> Эльфомания -> Портал в Эльфхейм -> 5-я страница -> Визуализировать**</mark>
-
-<figure><img src="https://media.discordapp.net/attachments/1132765303110127717/1142532941822566481/-1.png" alt=""><figcaption><p>Структура Портала в Эльфхейм</p></figcaption></figure>
+{% embed url="https://skfb.ly/oKK8S" %}
+Структура Портала в Эльфхейм
+{% endembed %}
 
 ## Активация Портала
 
