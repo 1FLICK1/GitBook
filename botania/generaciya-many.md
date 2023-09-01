@@ -21,7 +21,7 @@ layout:
 {% endhint %}
 
 {% hint style="success" %}
-Для просмотра радиуса действия цветка используйте Монокль ![](https://media.discordapp.net/attachments/1132752657367449731/1133058641608593619/50a4855324ed787a.png)
+Для удобного просмотра области действия цветка используйте Монокль ![](https://media.discordapp.net/attachments/1132752657367449731/1133058641608593619/50a4855324ed787a.png)
 {% endhint %}
 
 

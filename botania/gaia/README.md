@@ -26,7 +26,7 @@ layout:
 {% hint style="danger" %}
 <mark style="color:red;">**Обратите внимание!**</mark>\
 Текстура Гайа Пилона может отличаться, так как установлен мод <mark style="color:green;">**Alfheim**</mark>.\
-Оригинальная текстура из мода Botania выглядит так ![](https://media.discordapp.net/attachments/1132756596280262778/1146082047220273292/a458837d6350db39.png)&#x20;
+Оригинальная текстура из мода Botania выглядит так <img src="https://media.discordapp.net/attachments/1132756596280262778/1146082047220273292/a458837d6350db39.png" alt="" data-size="original">
 {% endhint %}
 
 {% embed url="https://skfb.ly/oKIEt" %}

@@ -39,6 +39,6 @@ coverY: -143.29224075416968
 _Раздел был создан с целью упростить прочтение основного руководства, оставив там только самое важное._
 
 {% hint style="danger" %}
-:pencil: **Главный редактор** - 1FLICK1\
+:pencil: **Chief Editor** - 1FLICK1\
 :envelope\_with\_arrow: **Для связи Discord** - **1flick1**
 {% endhint %}

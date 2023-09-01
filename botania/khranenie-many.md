@@ -31,7 +31,8 @@ layout:
 2\. [Колдовской Катализатор](#user-content-fn-2)[^2] ![](https://media.discordapp.net/attachments/1132756596280262778/1133008837734039628/b13860f34d3b4cec.png)\
 Установите нужный Катализатор [<mark style="color:green;">**под Бассейн**</mark>](#user-content-fn-3)[^3] для его работы.
 
-:pushpin: <mark style="color:yellow;">**`Бассейны Маны из мода LoliMagically`**</mark>&#x20;
+:pushpin: <mark style="color:yellow;">**`Бассейны Маны из мода LoliMagically`**</mark> \
+:pushpin: [<mark style="color:yellow;">**`Звезда Маны`**</mark>](../interesno-znat/botania.md#zvezda-many)&#x20;
 
 ## Планшет Маны ![](https://media.discordapp.net/attachments/1132752657367449731/1133009131096252516/Grid\_Mana\_Tablet.png)
 
