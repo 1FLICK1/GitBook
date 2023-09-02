@@ -8,12 +8,6 @@ coverY: 0
 
 <mark style="color:green;">**Botania**</mark> - мод, который позволит вам окунутся в мир мистических растений, которые обладают магическими силами. В этом моде можно выводить растения, получать ману, сражаться с боссами и многое другое, ждёт вас в модификации Botania.
 
-{% hint style="warning" %}
-<mark style="color:orange;">**В процессе создания**</mark>
-{% endhint %}
-
-{% embed url="https://miro.com/app/board/uXjVOjk5qsc=/" %}
-
 {% content-ref url="znakomstvo-s-modom.md" %}
 [znakomstvo-s-modom.md](znakomstvo-s-modom.md)
 {% endcontent-ref %}
@@ -34,15 +28,23 @@ coverY: 0
 [terrastal.md](terrastal.md)
 {% endcontent-ref %}
 
+{% content-ref url="portal-v-elfkheim.md" %}
+[portal-v-elfkheim.md](portal-v-elfkheim.md)
+{% endcontent-ref %}
+
 {% content-ref url="gaia/" %}
 [gaia](gaia/)
+{% endcontent-ref %}
+
+{% content-ref url="funkcionalnye-cvety.md" %}
+[funkcionalnye-cvety.md](funkcionalnye-cvety.md)
 {% endcontent-ref %}
 
 {% content-ref url="reshenie-oshibok.md" %}
 [reshenie-oshibok.md](reshenie-oshibok.md)
 {% endcontent-ref %}
 
-## :pushpin: Для любознательных
+## :pushpin: Дополнительный контент
 
 {% content-ref url="../interesno-znat/botania.md" %}
 [botania.md](../interesno-znat/botania.md)

@@ -34,7 +34,7 @@ coverY: 80.35242290748899
 [alkhimiya.md](alkhimiya.md)
 {% endcontent-ref %}
 
-## :pushpin: Для любознательных
+## :pushpin: Дополнительный контент
 
 {% content-ref url="../interesno-znat/blood-magic.md" %}
 [blood-magic.md](../interesno-znat/blood-magic.md)
