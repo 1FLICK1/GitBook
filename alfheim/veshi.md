@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Вещи
 
 ### Мауфтриевый Распространитель Маны ![](https://media.discordapp.net/attachments/1125896171848732772/1132065882944835624/ElvoriumSpreader.png)

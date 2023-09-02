@@ -4,16 +4,16 @@
 
 Эффекты большинства ритуалов можно усилить, вставив определенный алхимический элемент (реагент) в **Ритуальный камень мастера**.&#x20;
 
-Чтобы подать реагент в ритуал, его нужно "расплавить", чтобы это сделать нам понадобится  <mark style="color:purple;">**Алхимический Кальцинатор**</mark> ![](https://ftbwiki.org/images/8/8c/Grid\_Alchemic\_Calcinator.png)\
+Чтобы подать реагент в ритуал, его нужно "расплавить", чтобы это сделать нам понадобится  <mark style="color:purple;">**Алхимический Кальцинатор**</mark> ![](https://media.discordapp.net/attachments/1147510306847871046/1147575912951455904/dfbc714632216d66.png)\
 Кладём в кальцинатор любой кровавый шар, привязанный к кровавой сети и подаём сам реагент. Сделать это можно как нажатием `ПКМ` так и через Воронку.
 
 Далее уже расплавленный реагент нам нужно вывести. Чтобы управлять реагентами есть несколько инструментов, которые помогут в этом:
 
 ### Управление Реагентами
 
-* `Алхимический Маршрутизатор` <img src="https://ftbwiki.org/images/0/0c/Grid_Alchemic_Router.png" alt="" data-size="original">
-* `Алхимический Очиститель` ![](https://ftbwiki.org/images/b/b7/Grid\_Alchemic\_Cleanser.png)
-* :pushpin: [<mark style="color:yellow;">`Алхимический Сегментатор`</mark>](../interesno-znat/blood-magic.md#alkhimicheskii-segmentator) ![](https://ftbwiki.org/images/f/f5/Grid\_Alchemic\_Segmenter.png)
+* `Алхимический Маршрутизатор` <img src="https://media.discordapp.net/attachments/1147510249377513563/1147575997819011164/d154eb8c957ecdbe.png" alt="" data-size="original">
+* `Алхимический Очиститель` ![](https://media.discordapp.net/attachments/1147510249377513563/1147576009198153758/b8a111ddca490b8e.png)
+* :pushpin: [<mark style="color:yellow;">`Алхимический Сегментатор`</mark>](../interesno-znat/blood-magic.md#alkhimicheskii-segmentator) ![](https://media.discordapp.net/attachments/1147510249377513563/1147576018165563432/1a88ce8d7b0b35f1.png)
 
 С помощью <mark style="color:blue;">**Маршрутизатора**</mark> мы создаём маршрут, по которому будут поступать Реагенты.\
 **`ПКМ`** по контейнеру 1 - Выбираем точку отправителя.\
@@ -28,8 +28,8 @@ _Возможно ничего не понятно, но скоро разбер
 
 ### Хранилища Реагентов
 
-* Кристальный Колпак ![](https://ftbwiki.org/images/2/28/Grid\_Crystal\_Belljar.png)
-* Алхимическое Реле ![](https://ftbwiki.org/images/0/04/Grid\_Alchemy\_Relay.png)
+* Кристальный Колпак ![](https://media.discordapp.net/attachments/1147510306847871046/1147576181516939294/b307e448a3df1643.png)
+* Алхимическое Реле ![](https://media.discordapp.net/attachments/1147510306847871046/1147576250177691648/13dbf9f922647e82.png)
 * Кальцинатор или Ритуальный Камень Мастера
 
 <mark style="color:purple;">**Кристальный Колпак**</mark> - Может хранить до 16 000 AR одного вида реагента. \
