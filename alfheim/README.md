@@ -13,3 +13,29 @@ description: Вы попали на страничку гайда по моду 
 {% hint style="warning" %}
 <mark style="color:orange;">**В процессе разработки**</mark>
 {% endhint %}
+
+## Путеводитель по разделу
+
+{% content-ref url="mana-napolnenie.md" %}
+[mana-napolnenie.md](mana-napolnenie.md)
+{% endcontent-ref %}
+
+{% content-ref url="portal-v-alfkheim.md" %}
+[portal-v-alfkheim.md](portal-v-alfkheim.md)
+{% endcontent-ref %}
+
+{% content-ref url="flyugel/" %}
+[flyugel](flyugel/)
+{% endcontent-ref %}
+
+{% content-ref url="veshi.md" %}
+[veshi.md](veshi.md)
+{% endcontent-ref %}
+
+{% content-ref url="dendrologiya.md" %}
+[dendrologiya.md](dendrologiya.md)
+{% endcontent-ref %}
+
+{% hint style="info" %}
+Created by **1FLICK1**:heart:
+{% endhint %}
