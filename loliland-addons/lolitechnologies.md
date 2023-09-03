@@ -1,77 +1,133 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # LoliTechnologies
 
-#### **В игру пришел новый уникальный аддон **_**LoliTechnologies**_**, дополняющий мод **_**Applied Energistics**_**. Он поможет вам создавать более эффективные и удобные в использовании МЭ системы.**
+## Ускоренный молекулярный сборщик<img src="https://media.discordapp.net/attachments/1147900055861350501/1147900149755023423/1b0304308c1d2d2d.png" alt="" data-size="original">
 
-### Молекулярный сборщик(Экстремальный)<img src="../.gitbook/assets/Screenshot_2.png" alt="" data-size="original">
+Моментально обрабатывает запросы на автокрафт. \
+Процесс кодировки шаблонов аналогичен с обычным Молекулярным сборщиком
 
-Используется для экстремальных крафтов (9х9) из Avaritia. Чтобы закодировать для него шаблон нам понадобится **"МЭ терминал экстремальных крафтов"** и обычный шаблон. Готовый шаблон можно положить в интерфейс сборщика, либо в МЭ интерфейс подключенный к сборщику.
+***
 
-### _Нейтронный последовательный сборщик_<img src="../.gitbook/assets/Screenshot_1.png" alt="" data-size="original">
+## Молекулярный сборщик(Экстремальный)<img src="https://media.discordapp.net/attachments/1147900055861350501/1147900566316527659/42b372d24cf47b4d.png" alt="" data-size="original">
 
-Представляет собой замену нейтронного компрессора. Чтобы он работал, нужно его подключить к МЭ сети. Вместо шаблона, использует **"Диск с нейтронными шаблонами"**. Для кодировки диска, используется **"Нейтронный кодировщик"**, нужно положить диск в специальный слот, взять нужный блок для сингулярности и запомнить крафт.
+Используется для экстремальных крафтов (9х9) из Avaritia. \
+Кодировка шаблона идёт через <mark style="color:orange;">**МЭ терминал экстремальных крафтов**</mark> ![](https://media.discordapp.net/attachments/1147899489294749768/1147902217815330826/M\_.png)\
+Готовый шаблон необходимо положить в рядом стоящий <mark style="color:blue;">МЭ Интерфейс</mark>
 
-### **Ускоренный молекулярный сборщик**<img src="../.gitbook/assets/Screenshot_3.png" alt="" data-size="original">
+***
 
-Работает быстрее, чем обычный, и сможет помочь вам сделать свою МЭ сеть эффективнее.
+## Нейтронный последовательный сборщик<img src="https://media.discordapp.net/attachments/1147900055861350501/1147900607768834068/b9f5bf4b130a0542.png" alt="" data-size="original">
 
-### **Молекулярный сборщик(Матричный)**<img src="../.gitbook/assets/Screenshot_4.png" alt="" data-size="original">
+Используется для автокрафта Сингулярностей.\
+Для записи шаблона требуется <mark style="color:orange;">**Диск с Нейтронными Шаблонами**</mark> ![](https://media.discordapp.net/attachments/1147899507426721822/1147905124941971467/ae80ad7db03bf8a2.png)\
+Кодировка шаблона идёт через <mark style="color:orange;">**Нейтронный Кодировщик**</mark> ![](https://media.discordapp.net/attachments/1147899489294749768/1147904770720399410/e9e7a264b0053d1e.png)\
+Готовый шаблон необходимо поместить в сборщик. \
+Для работы сборщика подключите его к **МЭ Системе**
 
-Используется для упрощенной автоматизации крафтов из Thaumcraft. Чтобы закодировать крафт, нам понадобится Матричный кодировщик и Диск с матричными шаблонами. Кладём диск в кодировщик, выкладываем крафт и сохраняем его
+***
 
-### **Улучшенный магический сборщик**<img src="../.gitbook/assets/Screenshot_5.png" alt="" data-size="original">
+## **Молекулярный сборщик(Матричный)**<img src="https://media.discordapp.net/attachments/1147900055861350501/1147900581147594852/85d823b0ea3b4f2f.png" alt="" data-size="original">
 
-Представляет собой улучшенную версию обычного Магического сборщика, но может хранить в себе 100.000 вис.
+Используется для автоматизации крафтов на <mark style="color:yellow;">**Рунической Матрице**</mark>. \
+Для записи шаблона требуется <mark style="color:blue;">**Диск с Матричными Шаблонами**</mark> ![](https://media.discordapp.net/attachments/1147899507426721822/1147905136845394081/c76936a62fd8a618.png)\
+Кодировка шаблона идёт через <mark style="color:blue;">**Матричный Кодировщик**</mark> ![](https://media.discordapp.net/attachments/1147899489294749768/1147907459776794826/a324b9bf43912445.png)\
+Готовый шаблон необходимо поместить в сборщик. \
+Для работы сборщика подключите его к **МЭ Системе.**\
+<mark style="color:orange;">**При крафте будет расходовать Эссенцию из МЭ системы.**</mark>
 
-### **Блоки обработки создания(9 / 81 / 729)**<img src="../.gitbook/assets/Screenshot_6.png" alt="" data-size="original">
+{% hint style="success" %}
+Чтобы убрать затраты Вис поместите в сборщик <mark style="color:purple;">**Печать Азанора**</mark> <img src="https://media.discordapp.net/attachments/1147899507426721822/1147922611674816592/e32b5fa1f7743fe6.png" alt="" data-size="original">&#x20;
+{% endhint %}
 
-Данный блок является элементом **Многоблочного процессора**, отвечающий за доставку предметов из МЭ сети в **Хранилища создания**, и из **Хранилища создания** в МЭ интерфейс. Увеличивая количество блоков обработки создания в **Многоблочном процессоре** вы ускоряете процесс доставки предметов в крафте/обработке.
+***
 
-<table data-header-hidden><thead><tr><th width="325"></th><th></th></tr></thead><tbody><tr><td>256К Хранилище создания<img src="../.gitbook/assets/256.png" alt="" data-size="line"></td><td>хранит в себе 256к байт памяти для крафта</td></tr><tr><td>1024К Хранилище создания<img src="../.gitbook/assets/1024.png" alt="" data-size="line"></td><td>хранит в себе 1024к байт памяти для крафта</td></tr><tr><td>4096К Хранилище создания<img src="../.gitbook/assets/4096.png" alt="" data-size="line"></td><td>хранит в себе 4096к байт памяти для крафта</td></tr><tr><td>32М Хранилище создания<img src="../.gitbook/assets/32.png" alt="" data-size="line"></td><td>хранит в себе 32м байт памяти для крафта</td></tr><tr><td>128М Хранилище создания<img src="../.gitbook/assets/128.png" alt="" data-size="line"></td><td>хранит в себе 128м байт памяти для крафта</td></tr><tr><td>512М Хранилище создания<img src="../.gitbook/assets/512.png" alt="" data-size="line"></td><td>хранит в себе 512м байт памяти для крафта</td></tr><tr><td>2048М Хранилище создания<img src="../.gitbook/assets/2048.png" alt="" data-size="line"></td><td>хранит в себе 2048м байт памяти для крафта</td></tr></tbody></table>
+## Кровавый Сборщик ![](https://media.discordapp.net/attachments/1147900055861350501/1147924281964101642/43fdfc51a7b8c9e3.png)
 
-### Ячейки хранения с большим объёмом
+Используется для автоматизации крафтов предметов из мода [**BloodMagic**](../blood-magic/) \
+Для записи шаблона требуется <mark style="color:red;">**Диск с Шаблонами для Кровавых Сборщиков**</mark>![](https://media.discordapp.net/attachments/1147899507426721822/1147924639113285682/b157008a023d27cf.png)\
+Кодировка шаблона **Кровавого Алтаря** идёт через <mark style="color:red;">**Кровавый кодировщик Алтаря**</mark> ![](https://media.discordapp.net/attachments/1147899489294749768/1147924599426793642/7d9981ec2b12cc1c.png)\
+Кодировка шаблона **Алхимической и химической установки** идёт через \
+<mark style="color:red;">**Кровавый кодировщик Алхимической и химической установки**</mark> ![](https://media.discordapp.net/attachments/1147899489294749768/1147924613670637618/3f26d81bc2fda0ff.png)\
+Готовый шаблон необходимо поместить в сборщик. \
+Для работы сборщика подключите его к **МЭ Системе.**\
+<mark style="color:orange;">**При крафте будет расходовать Жидкую Кровь из МЭ системы.**</mark>
+
+## **Улучшенный магический сборщик**<img src="https://media.discordapp.net/attachments/1147900055861350501/1147908111496134666/ca8b6d42a4020413.png" alt="" data-size="original">
+
+Улучшенная версия обычного <mark style="color:blue;">Магического сборщика</mark>. Может хранить в себе 100.000 вис.\
+Кодировка шаблонов и настройка крафта аналогична обычному <mark style="color:blue;">Магическому Сборщику</mark>
+
+{% hint style="success" %}
+Чтобы убрать затраты Вис поместите в сборщик <mark style="color:purple;">**Печать Азанора**</mark> <img src="https://media.discordapp.net/attachments/1147899507426721822/1147922611674816592/e32b5fa1f7743fe6.png" alt="" data-size="original">&#x20;
+{% endhint %}
+
+***
+
+## **Блок обработки созданий(9 / 81 / 729)**<img src="https://cdn.discordapp.com/attachments/1147900055861350501/1147908660249509950/--1.gif" alt="" data-size="original">
+
+Улучшенная версия обычного Блока обработки созданий. \
+Могут выполнять сразу 9/81/729 операций одновременно.
+
+## Хранилище Создания
+
+<table data-header-hidden data-full-width="false"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center">256К Хранилище создания<img src="https://media.discordapp.net/attachments/1147899489294749768/1147911148193198141/256K_.png" alt="" data-size="original"></td></tr><tr><td align="center">1024К Хранилище создания<img src="https://media.discordapp.net/attachments/1147899489294749768/1147911162470604830/1024K_.png" alt="" data-size="original"></td></tr><tr><td align="center">4096К Хранилище создания<img src="https://media.discordapp.net/attachments/1147899489294749768/1147911203725787266/4096K_.png" alt="" data-size="original"></td></tr><tr><td align="center">32М Хранилище создания<img src="https://media.discordapp.net/attachments/1147899489294749768/1147911242820886578/32M_.png" alt="" data-size="original"></td></tr><tr><td align="center">128М Хранилище создания<img src="https://media.discordapp.net/attachments/1147899489294749768/1147911277579083796/128M_.png" alt="" data-size="original"></td></tr><tr><td align="center">512М Хранилище создания<img src="https://media.discordapp.net/attachments/1147899489294749768/1147911317445939280/512M_.png" alt="" data-size="original"></td></tr><tr><td align="center">2048М Хранилище создания<img src="https://media.discordapp.net/attachments/1147899489294749768/1147911349691760800/2048M_.png" alt="" data-size="original"></td></tr></tbody></table>
+
+## Ячейки хранения
 
 {% tabs %}
 {% tab title="Предметные" %}
-| 32М МЭ ячейка хранения ![](../.gitbook/assets/StorageCell32000k.png)   |   |
-| ---------------------------------------------------------------------- | - |
-| 64М МЭ ячейка хранения ![](../.gitbook/assets/StorageCell64000k.png)   |   |
-| 128М МЭ ячейка хранения ![](../.gitbook/assets/StorageCell128000k.png) |   |
+|                   32М МЭ ячейка хранения ![](https://media.discordapp.net/attachments/1147899507426721822/1147918748330774599/32M\_.png)                   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                   64М МЭ ячейка хранения ![](https://media.discordapp.net/attachments/1147899507426721822/1147918749001863188/64M\_.png)                   |
+| 128М МЭ ячейка хранения <img src="https://media.discordapp.net/attachments/1147899507426721822/1147918749786198036/128M_.png" alt="" data-size="original"> |
 {% endtab %}
 
 {% tab title="Жидкостные" %}
-<table data-header-hidden><thead><tr><th width="380"></th><th></th></tr></thead><tbody><tr><td>32М МЭ ячейка хранения жидкости <img src="../.gitbook/assets/storage.fluid.32m.png" alt=""></td><td></td></tr><tr><td>64М МЭ ячейка хранения жидкости <img src="../.gitbook/assets/storage.fluid.64m.png" alt=""></td><td></td></tr><tr><td>128М МЭ ячейка хранения жидкости <img src="../.gitbook/assets/storage.fluid.128m.png" alt="" data-size="original"></td><td></td></tr></tbody></table>
+|                   32М МЭ ячейка хранения жидкости ![](https://media.discordapp.net/attachments/1147899507426721822/1147918750004293702/32M\_.png)                   |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                   64М МЭ ячейка хранения жидкости ![](https://media.discordapp.net/attachments/1147899507426721822/1147918748574036059/64M\_.png)                   |
+| 128М МЭ ячейка хранения жидкости <img src="https://media.discordapp.net/attachments/1147899507426721822/1147918749257707681/128M_.png" alt="" data-size="original"> |
 {% endtab %}
 
 {% tab title="Эссенции" %}
-<table data-header-hidden><thead><tr><th width="382"></th><th></th></tr></thead><tbody><tr><td>32М МЭ ячейка хранения эссенции <img src="../.gitbook/assets/essentia.cell.32m.png" alt=""></td><td></td></tr><tr><td>64М МЭ ячейка хранения эссенции <img src="../.gitbook/assets/essentia.cell.64m.png" alt=""></td><td></td></tr><tr><td>128М МЭ ячейка хранения эссенции <img src="../.gitbook/assets/essentia.cell.128m.png" alt=""></td><td></td></tr></tbody></table>
+|  32М МЭ ячейка хранения эссенции ![](https://media.discordapp.net/attachments/1147899507426721822/1147918750234972220/32M\_.png)  |
+| :-------------------------------------------------------------------------------------------------------------------------------: |
+|  64М МЭ ячейка хранения эссенции ![](https://media.discordapp.net/attachments/1147899507426721822/1147918748775354548/64M\_.png)  |
+| 128М МЭ ячейка хранения эссенции ![](https://media.discordapp.net/attachments/1147899507426721822/1147918749521940502/128M\_.png) |
 {% endtab %}
 {% endtabs %}
 
-### Улучшенные версии МЭ кабелей
+## Улучшенные версии МЭ кабелей
 
-<table data-header-hidden><thead><tr><th width="294"></th><th></th></tr></thead><tbody><tr><td>Улучшенный МЭ кабель</td><td>Проводит 64 канала</td></tr><tr><td>Ультимативный МЭ кабель</td><td>Проводит 128 каналов</td></tr><tr><td>Квантовый МЭ кабель</td><td>Проводит 256 каналов</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="359" align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Улучшенный МЭ кабель<img src="https://cdn.discordapp.com/attachments/1147899489294749768/1147913209056088114/--2.gif" alt=""></td><td align="center">Проводит 64 канала</td></tr><tr><td align="center">Ультимативный МЭ кабель<img src="https://cdn.discordapp.com/attachments/1147899489294749768/1147913759784980490/--2.gif" alt=""></td><td align="center">Проводит 128 каналов</td></tr><tr><td align="center">Квантовый МЭ кабель<img src="https://cdn.discordapp.com/attachments/1147899489294749768/1147918328875192390/--2.gif" alt=""></td><td align="center">Проводит 256 каналов</td></tr></tbody></table>
 
-### Улучшенный МЭ интерфейсы
+## Улучшенный МЭ интерфейсы
 
-| МЭ интерфейс Х2 (18 шаблонов) <img src="../.gitbook/assets/Слой 4.png" alt="" data-size="line">     | Позволяет хранить 18 шаблонов внутри. |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| МЭ интерфейс Х3 (27 шаблонов) <img src="../.gitbook/assets/Слой 3 (1).png" alt="" data-size="line"> | Позволяет хранить 27 шаблонов внутри. |
-| МЭ интерфейс Х4 (36 шаблонов) <img src="../.gitbook/assets/Слой 2 (2).png" alt="" data-size="line"> | Позволяет хранить 36 шаблонов внутри. |
+| МЭ интерфейс Х2 (18 шаблонов) <img src="https://media.discordapp.net/attachments/1147899489294749768/1147919292688502837/X2_18_.png" alt="" data-size="original"> | Позволяет хранить 18 шаблонов внутри. |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------: |
+| МЭ интерфейс Х3 (27 шаблонов) <img src="https://media.discordapp.net/attachments/1147899489294749768/1147919313009905694/X3_27_.png" alt="" data-size="original"> | Позволяет хранить 27 шаблонов внутри. |
+| МЭ интерфейс Х4 (36 шаблонов) <img src="https://media.discordapp.net/attachments/1147899489294749768/1147919327358627860/X4_36_.png" alt="" data-size="original"> | Позволяет хранить 36 шаблонов внутри. |
 
-### Беспроводные соединители
+## Беспроводные соединители
 
-<table data-header-hidden><thead><tr><th width="429"></th><th></th></tr></thead><tbody><tr><td>Улучшенный Беспроводной соединитель <img src="../.gitbook/assets/Слой 12.png" alt="" data-size="line"></td><td>Проводит 64 канала</td></tr><tr><td>Ультимативный Беспроводной соединитель <img src="../.gitbook/assets/Слой 11.png" alt="" data-size="line"></td><td>Проводит 128 каналов</td></tr><tr><td>Квантовый Беспроводной соединитель <img src="../.gitbook/assets/Слой 12.png" alt="" data-size="line"></td><td>Проводит 256 каналов</td></tr></tbody></table>
+Для привязки используйте <mark style="color:blue;">**Набор для настройки Беспроводного соединителя**</mark> ![](https://media.discordapp.net/attachments/1147899507426721822/1147920899580887171/d8d4e8f1514dab58.png)
 
-### Иные предметы&#x20;
+<table data-header-hidden><thead><tr><th width="506" align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Улучшенный Беспроводной соединитель <img src="https://media.discordapp.net/attachments/1147899489294749768/1147919845476794368/c7c0338df660baaf.png" alt="" data-size="original"></td><td align="center">Проводит 64 канала</td></tr><tr><td align="center">Ультимативный Беспроводной соединитель <img src="https://media.discordapp.net/attachments/1147899489294749768/1147919864229527694/e76876f45ea09b22.png" alt="" data-size="original"></td><td align="center">Проводит 128 каналов</td></tr><tr><td align="center">Квантовый Беспроводной соединитель <img src="https://media.discordapp.net/attachments/1147899489294749768/1147919887679881246/f5f653f2c1c45e21.png" alt="" data-size="original"></td><td align="center">Проводит 256 каналов</td></tr></tbody></table>
 
-| Изменчивый агрегатор <img src="../.gitbook/assets/Слой 9.png" alt="" data-size="line">                        | Используется для создания кристаллов                                                             |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Пульсирующая центрифуга <img src="../.gitbook/assets/Слой 8.png" alt="" data-size="line">                     | Используется для создания кристаллов                                                             |
-| Расширенный МЭ накопитель <img src="../.gitbook/assets/Слой 6 (1).png" alt="" data-size="line">               | Улучшенная версия МЭ накопителя, имеет 20 слотов для ячеек                                       |
-| Гибридная плотная энергетическая ячейка <img src="../.gitbook/assets/Слой 5 (1).png" alt="" data-size="line"> | Хранилище энергии                                                                                |
-| Нейтронный кодировщик <img src="../.gitbook/assets/Слой 3 (2).png" alt="" data-size="line">                   | Используется для кодирования Диска с нейтронными шаблонами                                       |
-| Матричный кодировщик <img src="../.gitbook/assets/Слой 2.png" alt="" data-size="line">                        | Используется для кодирования Диска с матричными шаблонами                                        |
-| Печать Азанора <img src="../.gitbook/assets/rgeg.png" alt="" data-size="line">                                | Отменяет затраты вис в Совершенной пасеке, магическом сборщике, молекулярном сборщике(матричный) |
-| Квантовая Карта Ускорения ![](../.gitbook/assets/ItemQuantumAccelerationCard.png)                             | Улучшенная версия привычной _карты ускорения_. Мощность увеличена в 6 раз.                       |
-| Набор для настройки беспроводного соединителя ![](../.gitbook/assets/ItemWirelessKit.png)                     | Используется для привязки новых соединителей                                                     |
+## Другое&#x20;
+
+<table data-header-hidden><thead><tr><th width="333" align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Расширенный МЭ накопитель <img src="https://media.discordapp.net/attachments/1147899489294749768/1147922341926543360/5a25b79b409c14c0.png" alt="" data-size="original"></td><td align="center">Улучшенная версия МЭ накопителя, имеет 20 слотов для ячеек</td></tr><tr><td align="center">Гибридная плотная энергетическая ячейка <img src="https://media.discordapp.net/attachments/1147899489294749768/1147922544087814216/2.png" alt="" data-size="original"></td><td align="center">Ёмкость ячейки - 20 000 000 AE</td></tr><tr><td align="center">Печать Азанора <img src="https://media.discordapp.net/attachments/1147899507426721822/1147922611674816592/e32b5fa1f7743fe6.png" alt="" data-size="original"></td><td align="center">Отменяет затраты вис в механизмах</td></tr><tr><td align="center">Квантовая Карта Ускорения <img src="https://media.discordapp.net/attachments/1147899507426721822/1147922682726330518/bd7f7c9ca13be967.png" alt="" data-size="original"></td><td align="center">Улучшенная версия обычной карты ускорения. <mark style="color:green;"><strong>Достаточно 1 карты, чтобы ускорить механизм на максимум</strong></mark></td></tr></tbody></table>
 
