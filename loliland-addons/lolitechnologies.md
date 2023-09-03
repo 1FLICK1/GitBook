@@ -45,8 +45,22 @@ layout:
 Для записи шаблона требуется <mark style="color:blue;">**Диск с Матричными Шаблонами**</mark> ![](https://media.discordapp.net/attachments/1147899507426721822/1147905136845394081/c76936a62fd8a618.png)\
 Кодировка шаблона идёт через <mark style="color:blue;">**Матричный Кодировщик**</mark> ![](https://media.discordapp.net/attachments/1147899489294749768/1147907459776794826/a324b9bf43912445.png)\
 Готовый шаблон необходимо поместить в сборщик. \
-Для работы сборщика подключите его к **МЭ Системе.**\
-<mark style="color:orange;">**При крафте будет расходовать Эссенцию из МЭ системы.**</mark>
+Для работы сборщика подключите его к **МЭ Системе.**
+
+{% hint style="info" %}
+**При крафте будет расходовать Эссенцию из МЭ системы.**
+{% endhint %}
+
+{% hint style="success" %}
+Чтобы убрать затраты Вис поместите в сборщик <mark style="color:purple;">**Печать Азанора**</mark> <img src="https://media.discordapp.net/attachments/1147899507426721822/1147922611674816592/e32b5fa1f7743fe6.png" alt="" data-size="original">&#x20;
+{% endhint %}
+
+***
+
+## **Улучшенный магический сборщик**<img src="https://media.discordapp.net/attachments/1147900055861350501/1147908111496134666/ca8b6d42a4020413.png" alt="" data-size="original">
+
+Улучшенная версия обычного <mark style="color:blue;">Магического сборщика</mark>. Может хранить в себе 100.000 вис.\
+Кодировка шаблонов и настройка крафта аналогична обычному <mark style="color:blue;">Магическому Сборщику</mark>
 
 {% hint style="success" %}
 Чтобы убрать затраты Вис поместите в сборщик <mark style="color:purple;">**Печать Азанора**</mark> <img src="https://media.discordapp.net/attachments/1147899507426721822/1147922611674816592/e32b5fa1f7743fe6.png" alt="" data-size="original">&#x20;
@@ -62,16 +76,10 @@ layout:
 Кодировка шаблона **Алхимической и химической установки** идёт через \
 <mark style="color:red;">**Кровавый кодировщик Алхимической и химической установки**</mark> ![](https://media.discordapp.net/attachments/1147899489294749768/1147924613670637618/3f26d81bc2fda0ff.png)\
 Готовый шаблон необходимо поместить в сборщик. \
-Для работы сборщика подключите его к **МЭ Системе.**\
-<mark style="color:orange;">**При крафте будет расходовать Жидкую Кровь из МЭ системы.**</mark>
+Для работы сборщика подключите его к **МЭ Системе.**
 
-## **Улучшенный магический сборщик**<img src="https://media.discordapp.net/attachments/1147900055861350501/1147908111496134666/ca8b6d42a4020413.png" alt="" data-size="original">
-
-Улучшенная версия обычного <mark style="color:blue;">Магического сборщика</mark>. Может хранить в себе 100.000 вис.\
-Кодировка шаблонов и настройка крафта аналогична обычному <mark style="color:blue;">Магическому Сборщику</mark>
-
-{% hint style="success" %}
-Чтобы убрать затраты Вис поместите в сборщик <mark style="color:purple;">**Печать Азанора**</mark> <img src="https://media.discordapp.net/attachments/1147899507426721822/1147922611674816592/e32b5fa1f7743fe6.png" alt="" data-size="original">&#x20;
+{% hint style="info" %}
+**При крафте будет расходовать **<mark style="color:red;">**Жизненную Эссенцию**</mark>** из МЭ системы.**
 {% endhint %}
 
 ***
