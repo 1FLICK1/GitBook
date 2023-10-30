@@ -31,6 +31,10 @@
 При нажатии **`Пробел`** вы телепортируетесь на блок верхнего лифта\
 При нажатии **`Shift`** вы телепортируетесь на блок нижнего лифта
 
+## Плиты зарядки
+
+<table data-header-hidden data-full-width="false"><thead><tr><th width="112.33333333333331"></th><th width="151" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1147960565591969843/1149806162070470806/EU.gif?ex=654e94ef&#x26;is=653c1fef&#x26;hm=c080f5d3e96853e506e587cd680cb733c4398e3ee4273e598ec79830e1034cbe&#x26;" alt=""></td><td align="center">Плита зарядки EU</td><td>Заряжает предметы в инвентаре игрока <mark style="color:blue;"><strong>EU</strong></mark> энергией</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1147960565591969843/1149806149332390029/RF.gif?ex=654e94ec&#x26;is=653c1fec&#x26;hm=cf6a692cc5d8bd97c732709f71b22203f533a95b64cdac73f547ebf1c9abf2c0&#x26;" alt=""></td><td align="center">Плита зарядки RF</td><td>Заряжает предметы в инвентаре игрока <mark style="color:orange;"><strong>RF</strong></mark> энергией</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1147960565591969843/1149806124875403434/mana.gif?ex=654e94e6&#x26;is=653c1fe6&#x26;hm=026ca3a5bd5193ae7f29b0eabbefc9f40bdb5283cfdb9e5f49fffed7e291d0b7&#x26;" alt=""></td><td align="center">Плита зарядки Маны</td><td>Заряжает предметы в инвентаре игрока <mark style="color:blue;"><strong>Маной</strong></mark></td></tr><tr><td><img src="https://media.discordapp.net/attachments/1147960565591969843/1149806136384557076/Wand.gif?ex=654e94e9&#x26;is=653c1fe9&#x26;hm=28a00451d048777021064bb079cb0e71e1c81bed441cf2b899b99a10f4fb3586&#x26;=" alt=""></td><td align="center">Плита зарядки Жезлов</td><td>Заряжает <mark style="color:purple;"><strong>жезлы</strong></mark> в инвентаре игрока за <mark style="color:blue;"><strong>Ману</strong></mark></td></tr></tbody></table>
+
 ## Плита телепортации ![](https://cdn.discordapp.com/attachments/1147960565591969843/1149802364581204049/teleporter.gif)
 
 Для её использования вам понадобится\
@@ -42,11 +46,9 @@
 Настройка <mark style="color:yellow;">**`Общий Доступ`**</mark> позволит использовать плиту другим игрокам, которые не состоят в регионе\
 Настройка <mark style="color:red;">**`По сигналу`**</mark> будет телепортировать в том случае, если на плиту был подан сигнал красного камня
 
-Доступна в 16 расцветках.
-
 ## Обелиск Опыта ![](https://cdn.discordapp.com/attachments/1167186277993553971/1167193564422348910/637e1b10971047f7.png?ex=654d3cb7\&is=653ac7b7\&hm=ad6b59e02ca742a18cae686c651e3bd51bfb70eedcf50aebcf7f095276229e79&)&#x20;
 
-Механизм, который позволяет хранить весь <mark style="color:green;">**опыт**</mark> или уровни игрока в 1 блоке.
+Механизм, который позволяет хранить весь <mark style="color:green;">**опыт**</mark> игрока в 1 блоке.
 
 ## Вакуумный Сундук ![](https://media.discordapp.net/attachments/1167186277993553971/1167193701450260632/f096c0c350a0abc3.png?ex=654d3cd7\&is=653ac7d7\&hm=58303fcc939985dff165f01d3810b8c6925811e394457b0925e7c8fd094fba86&=)
 
