@@ -16,7 +16,7 @@ layout:
 
 ## Ускоренный молекулярный сборщик<img src="https://cdn.discordapp.com/attachments/1166830674548891760/1166830990187036672/b987594889ed49bc.png?ex=654beb0a&#x26;is=6539760a&#x26;hm=4ff250ba450d1675d1ef40a89ab2a93e871033a9da3ff30fa4f1876245f5200a&#x26;" alt="" data-size="original">
 
-Моментально обрабатывает запросы на автокрафт. \
+<mark style="color:red;">**Моментально**</mark> обрабатывает запросы на автокрафт. \
 Процесс кодировки шаблонов аналогичен с обычным Молекулярным сборщиком
 
 ***
@@ -79,8 +79,17 @@ layout:
 Для работы сборщика подключите его к **МЭ Системе.**
 
 {% hint style="info" %}
-**При крафте будет расходовать **<mark style="color:red;">**Жизненную Эссенцию**</mark>** из МЭ системы.**
+**При крафте будет расходовать** [<mark style="color:red;">**Жизненную Эссенцию**</mark>](../blood-magic/znakomstvo-s-modom.md#pervoe-khranilishe-krovi) **из МЭ системы.**
 {% endhint %}
+
+## Резонатор Крови ![](https://media.discordapp.net/attachments/1166830674548891760/1168669662205186098/b5a729055bf5edce.png?ex=65529b70\&is=65402670\&hm=d07c1b10ca4c858a7286f5706f8a6f5829c4fdfae4cb8d2b1e20382b41351154&=)
+
+[<mark style="color:red;">**Жизненной Эссенцией**</mark>](../blood-magic/znakomstvo-s-modom.md#pervoe-khranilishe-krovi) из МЭ сети **с большой скоростью** заполняет любые резервуары, которые стоят по соседству с ним.
+
+## Резонатор Маны ![](https://media.discordapp.net/attachments/1166830674548891760/1168669680467198072/5f4d2adbfb1018bf.png?ex=65529b74\&is=65402674\&hm=b465f4839e2f04ace738bed13c5b170e787042e5cba308817b3d823b12f531fc&=)
+
+Блок, позволяющий хранить [<mark style="color:blue;">**Ману**</mark>](#user-content-fn-1)[^1] в виде жидкости в МЭ сети.\
+Для передачи маны в / из МЭ системы используйте [Искры](../botania/peredacha-many.md#iskry)![](https://cdn.discordapp.com/attachments/1132752515776135289/1132756006540152882/spark.gif?ex=6551273d\&is=653eb23d\&hm=66e9bbba2c9e964fd2fc99970f392ac6b818765a527a597540a8636f15f97227&)
 
 ***
 
@@ -92,6 +101,11 @@ layout:
 ## Хранилище Создания
 
 <table data-header-hidden data-full-width="false"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center">256К Хранилище создания<img src="https://cdn.discordapp.com/attachments/1166830628470263829/1167190368119431259/256K_.png?ex=654d39bd&#x26;is=653ac4bd&#x26;hm=be648083dafc440a7ac027f3c397db0de8d3d3a903ac56fc8919f77b5c2b0265&#x26;" alt="" data-size="original"></td></tr><tr><td align="center">1024К Хранилище создания<img src="https://cdn.discordapp.com/attachments/1166830628470263829/1167190398280667227/1024K_.png?ex=654d39c4&#x26;is=653ac4c4&#x26;hm=8dfd3a2accedc46ca6b75b780160d88adf678770681678bd529a3e42079b0498&#x26;" alt="" data-size="original"></td></tr><tr><td align="center">4096К Хранилище создания<img src="https://cdn.discordapp.com/attachments/1166830628470263829/1167190411614355517/4096K_.png?ex=654d39c7&#x26;is=653ac4c7&#x26;hm=e4ec32d3f848d4b668e924e8790883dd881cc3323da210cf92255abff9b7d0d7&#x26;" alt="" data-size="original"></td></tr><tr><td align="center">32М Хранилище создания<img src="https://media.discordapp.net/attachments/1166830628470263829/1167190435601592380/32M_.png?ex=654d39cd&#x26;is=653ac4cd&#x26;hm=3bc7c48d852267ab7af282de4567914af80ed3dfdc0e7eba721d72853627d5cb&#x26;=" alt="" data-size="original"></td></tr><tr><td align="center">128М Хранилище создания<img src="https://media.discordapp.net/attachments/1166830628470263829/1167190460410900570/128M_.png?ex=654d39d3&#x26;is=653ac4d3&#x26;hm=4f1e9d078078915ec9d57c8e2bbe49a1a21ddd226c6f2ee70c1f4db7ab600a50&#x26;=" alt="" data-size="original"></td></tr><tr><td align="center">512М Хранилище создания<img src="https://cdn.discordapp.com/attachments/1166830628470263829/1167190490207232061/512M_.png?ex=654d39da&#x26;is=653ac4da&#x26;hm=cbf4e1af27285a20dbde1accd4272bf659e84478b8110236b7a63610e5a098db&#x26;" alt="" data-size="original"></td></tr><tr><td align="center">2048М Хранилище создания<img src="https://cdn.discordapp.com/attachments/1166830628470263829/1167190504014884864/2048M_.png?ex=654d39dd&#x26;is=653ac4dd&#x26;hm=2b18986af5a31a63cd53a68c306e21c4ac8b9c43bcae69a3f57f3435882a6e80&#x26;" alt="" data-size="original"></td></tr></tbody></table>
+
+## Объединитель блоков Обработки и Создания
+
+Имеет 9 слотов под Хранилище Создания и 9 слотов под Блоки обработки созданий.\
+Благодаря чему можно сделать ёмкий ЦП создания всего в одном блоке!
 
 ## Ячейки хранения
 
@@ -137,5 +151,8 @@ layout:
 
 ## Другое&#x20;
 
-<table data-header-hidden><thead><tr><th width="333"></th><th></th></tr></thead><tbody><tr><td>Расширенный МЭ накопитель <img src="https://media.discordapp.net/attachments/1166830628470263829/1167188551901925446/dd7a536e6946d1a1.png?ex=654d380c&#x26;is=653ac30c&#x26;hm=686d030da11816d31bc4d6319e3890b3cc92461a049a5110cde91d0d48a36f1b&#x26;=" alt="" data-size="original"></td><td>Улучшенная версия МЭ накопителя, имеет 20 слотов для ячеек</td></tr><tr><td>Гибридная плотная энергетическая ячейка <img src="https://media.discordapp.net/attachments/1166830628470263829/1167192605172433007/2.png?ex=654d3bd2&#x26;is=653ac6d2&#x26;hm=ef70be82941024b5ff52cb96a1d205f3c11605e704d44be846ad38ad37d4bf82&#x26;=" alt="" data-size="original"></td><td>Ёмкость ячейки - 20 000 000 AE</td></tr><tr><td>Печать Азанора <img src="https://cdn.discordapp.com/attachments/1147899507426721822/1147948700769988628/--4.gif" alt="" data-size="original"></td><td>Отменяет затраты вис в механизмах</td></tr><tr><td>Квантовая Карта Ускорения <img src="https://media.discordapp.net/attachments/1166830715736948796/1167188349392535632/3c468fb238fcbfa3.png?ex=654d37db&#x26;is=653ac2db&#x26;hm=20a909e9c424597f4be207d45ca21c7375e11f9da1ee21e563e8e78115994d7b&#x26;=" alt="" data-size="original"></td><td>Улучшенная версия обычной карты ускорения. <mark style="color:green;"><strong>Достаточно 1 карты, чтобы ускорить механизм на максимум</strong></mark></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="333"></th><th></th></tr></thead><tbody><tr><td>Расширенный МЭ накопитель <img src="https://media.discordapp.net/attachments/1166830628470263829/1167188551901925446/dd7a536e6946d1a1.png?ex=654d380c&#x26;is=653ac30c&#x26;hm=686d030da11816d31bc4d6319e3890b3cc92461a049a5110cde91d0d48a36f1b&#x26;=" alt="" data-size="original"></td><td>Улучшенная версия МЭ накопителя, имеет 20 слотов для ячеек</td></tr><tr><td>Гибридная плотная энергетическая ячейка <img src="https://media.discordapp.net/attachments/1166830628470263829/1167192605172433007/2.png?ex=654d3bd2&#x26;is=653ac6d2&#x26;hm=ef70be82941024b5ff52cb96a1d205f3c11605e704d44be846ad38ad37d4bf82&#x26;=" alt="" data-size="original"></td><td>Ёмкость ячейки - 20 000 000 AE</td></tr><tr><td>МЭ Аннулятор Предметов <img src="https://media.discordapp.net/attachments/1166830628470263829/1168669172260163626/082b991fd9aac6df.png?ex=65529afb&#x26;is=654025fb&#x26;hm=0ccc16e35b5b26a7b47d011200b8b260b5430ad3c504ff1f7c2d7111aaea6002&#x26;=" alt=""></td><td>Очищает указанные предметы из МЭ системы</td></tr><tr><td>Печать Азанора <img src="https://cdn.discordapp.com/attachments/1147899507426721822/1147948700769988628/--4.gif" alt="" data-size="original"></td><td>Отменяет затраты вис в механизмах</td></tr><tr><td>Квантовая Карта Ускорения <img src="https://media.discordapp.net/attachments/1166830715736948796/1167188349392535632/3c468fb238fcbfa3.png?ex=654d37db&#x26;is=653ac2db&#x26;hm=20a909e9c424597f4be207d45ca21c7375e11f9da1ee21e563e8e78115994d7b&#x26;=" alt="" data-size="original"></td><td>Ускоряет механизм до максимума</td></tr></tbody></table>
 
+
+
+[^1]: Мана - ресурс, добавленный модом [<mark style="color:green;">**Botania**</mark>](../botania/). Используется для различных крафтов и других механик.
