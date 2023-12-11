@@ -4,7 +4,7 @@
 * [💎 LoliLand Addons](loliland-addons/README.md)
   * [🔸 LoliTechnologies](loliland-addons/lolitechnologies.md)
   * [🔸 LoliUtility](loliland-addons/loliutility.md)
-  * [🔸 LoliLand: IC2 Energistics](loliland-addons/loliland-ic2-energistics/README.md)
+  * [🔸 LoliEnergistics](loliland-addons/loliland-ic2-energistics/README.md)
     * [Оружие и броня с 3D-моделями](loliland-addons/loliland-ic2-energistics/oruzhie-i-bronya-s-3d-modelyami.md)
   * [🔸 Loliland: Mekanism Addon](loliland-addons/loliland-mekanism-addon.md)
   * [🔸 LoliMagically](loliland-addons/lolimagically.md)
