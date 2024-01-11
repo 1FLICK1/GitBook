@@ -26,7 +26,7 @@ layout:
 :pushpin: [<mark style="color:yellow;">**`Способы быстрой добычи крови на начальном этапе игры`**</mark>](../interesno-znat/blood-magic.md#bystraya-dobycha-krovi)
 
 {% hint style="success" %}
-Используйте **Сигил Предсказания** для просмотра дополнительной информации о Алтаре <img src="https://media.discordapp.net/attachments/1147516844832464956/1147518036274839562/f6b62b24eab15f27.png" alt="" data-size="original">
+Используйте **Сигил Предсказания** для просмотра информации о Алтаре <img src="https://media.discordapp.net/attachments/1147516844832464956/1147518036274839562/f6b62b24eab15f27.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="success" %}
