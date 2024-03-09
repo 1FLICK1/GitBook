@@ -111,7 +111,7 @@ layout:
 
 [^4]: ![](https://lh7-us.googleusercontent.com/KHdiY9Ot4TTil6E-aR34QA27xlEeuOz5OsoOQ9VWzxQIEy5yJ5mlaaOGFZt4n3MgxyyE13BLtJ7RqznK75WirNHnnCFYpJOvJOTovvxdUSevRmTZsoCo7SlExrNqjD7iXfBGSL4zNO3ZUS284Biifio)
 
-[^5]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126552620828459008/-2.png)
+[^5]: ![](https://lh7-us.googleusercontent.com/ugkgoXJXU7fdNBjsvtX2mLdI3vFpx9plXgea6uh6aH6fQSm1LTw51futd7Ldqm6pjsAt7U4VHa0FFMNJeK2gIb8NXVPR1TQlFWu1FGnvkzd7kJpIp3HbYF63GAeyZHfuNsUvCyO3ctYYWMvzaLdYLVk)
 
 [^6]: Предмет для настройки механизмов \
     ![](https://lh7-us.googleusercontent.com/ecs\_SSi29\_V3kN7n-jV15qZ7-KnxYWkIPlfaF8jneZ\_H4tVCEeL3xA7BzliwbiuN5-Vxls04QQH-v74Y4Ppp\_beUFiAwer0Qj6FS\_ouWhQXGk0rzt911gb1ARzzhjRJlmHmJXyjfu9t8JwZE8EFDQdQ)\
@@ -127,7 +127,7 @@ layout:
 
 [^10]: ![](https://lh7-us.googleusercontent.com/XinxjrHCFs\_VlPH5dA77Oi5yR7GJWiy-BFeDN5TPMNXvv7avzXyHehiRue03uB-\_cOR\_zeVXkwj4mQ3rtc6n72nZz8UBb2EakUnLTW4q6rZqP6kU5jf7jNbza418-9\_2I6g\_R9debdTfk3VEfdfzBvk)
 
-[^11]: ![](https://media.discordapp.net/attachments/1125896171848732772/1126902616341880832/-1.png)
+[^11]: ![](https://lh7-us.googleusercontent.com/yvDcUwt7jMUl3zoaXCHKJiBBBuAJowmr5ByrsGJbudxuA6Z0mEe-ztMWW3RL-uJrG\_wN2qGDCUNWmyl5OeYiGGE7F69\_5SrczWLqR\_PWG7WlmqDZDPuW1r73iE5\_I2k2q0\_OAgxPpn2XILYXioOCv44)
 
 [^12]: ![](https://lh7-us.googleusercontent.com/IQFqYjseikeiu76toIgMiHL-afuBtefD70jKtuDKQwz\_dFz5vPVWe4-972vMcOyEJMYoRQDFoAbHWB8-U4N4Cr1Fp-7nawGu-GAnBwoPHMf-gL4DxKscrI7lXKMdDHs4CYFTmtdQaCGognoZ2m0hq0s)
 

@@ -30,11 +30,11 @@ layout:
 
 
 
-[^1]: Эффективность снижается, если эти цветы расположены вплотную друг к другу. Оптимальный способ установки показан ниже<img src="https://media.discordapp.net/attachments/1125896171848732772/1126902616341880832/-1.png" alt="" data-size="original">
+[^1]: Эффективность снижается, если эти цветы расположены вплотную друг к другу. Оптимальный способ установки показан ниже![](https://lh7-us.googleusercontent.com/yvDcUwt7jMUl3zoaXCHKJiBBBuAJowmr5ByrsGJbudxuA6Z0mEe-ztMWW3RL-uJrG\_wN2qGDCUNWmyl5OeYiGGE7F69\_5SrczWLqR\_PWG7WlmqDZDPuW1r73iE5\_I2k2q0\_OAgxPpn2XILYXioOCv44)
 
 [^2]: Пассивными называют цветы, которые спустя время высыхают, превращаясь в мёртвый куст.
 
-[^3]: Эффективность снижается, если эти цветы расположены вплотную друг к другу. Оптимальный способ установки показан ниже<img src="https://media.discordapp.net/attachments/1125896171848732772/1126902616341880832/-1.png" alt="" data-size="original">
+[^3]: Эффективность снижается, если эти цветы расположены вплотную друг к другу. Оптимальный способ установки показан ниже![](https://lh7-us.googleusercontent.com/yvDcUwt7jMUl3zoaXCHKJiBBBuAJowmr5ByrsGJbudxuA6Z0mEe-ztMWW3RL-uJrG\_wN2qGDCUNWmyl5OeYiGGE7F69\_5SrczWLqR\_PWG7WlmqDZDPuW1r73iE5\_I2k2q0\_OAgxPpn2XILYXioOCv44)
 
 [^4]: Пассивными называют цветы, которые спустя время высыхают, превращаясь в мёртвый куст.
 
@@ -51,4 +51,4 @@ layout:
 [^8]: Генерирует ману поглощая взрыв от динамита
 
 [^9]: Этому цветку требуются все 16 цветов шерсти, и он будет потреблять их в порядке, начиная с белого. После каждого блока, он сменит цвет на следующий.\
-    Следующий требуемый цвет можно определить, посмотрев на цветок используя Посох Леса <img src="https://cdn.discordapp.com/attachments/1132752515776135289/1132761510423298158/Posoh_Lesa.gif" alt="" data-size="line">
+    Следующий требуемый цвет можно определить, посмотрев на цветок используя Посох Леса ![](https://lh7-us.googleusercontent.com/Ncy35PPhYekhVtO0mHWj47DgpsbUy8Ez3PdFvKQD1dcGW20Lx-7iy\_oS14DQaWoj-fng5Ju5lYPdCDsV\_1DoSTrGppXZsN-Bh7oA3L-Gi5rsh4NmEJ8-Al-XcVVc3UctKb\_WJ0Fs5yquwTR0SQtpZXk)
