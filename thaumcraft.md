@@ -1,4 +1,4 @@
-# 🪄 Thaumcraft
+# ♦️ Thaumcraft
 
 {% hint style="danger" %}
 В РАЗРАБОТКЕ

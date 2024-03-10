@@ -1,4 +1,4 @@
-# ⚔ DivineRPG
+# ♦️ DivineRPG
 
 {% hint style="danger" %}
 В РАЗРАБОТКЕ

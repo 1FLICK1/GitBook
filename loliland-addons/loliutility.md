@@ -14,7 +14,7 @@ layout:
 
 # 🔸 LoliUtility
 
-## Преобразователь удачи ![](https://cdn.discordapp.com/attachments/1147960565591969843/1147960640372215928/fortune.gif)
+## Преобразователь удачи ![](https://lh7-us.googleusercontent.com/cVK2CcYnXX4xCREUFJvWoQkwPhzn\_JJwVhmGawt4TU-Dbj0WHO3tdpCqsW-VthHOuxYgUPO0B\_feskEwcDEY5kPvNN\_hUZ13c8MYbZ\_6MDVVfsjrCWviI4t4AMGhOVjfwN-iPHOv9hHA60rysJ2wE\_M)
 
 Ломает руды (с удачей) внутри себя потребляя **EU** энергию. \
 Верхние 3х9 слоты для <mark style="color:orange;">Обычной руды</mark>.\
@@ -22,29 +22,15 @@ layout:
 1х1 слот в центре для <mark style="color:purple;">Модуля Удачи</mark> или <mark style="color:purple;">Кирки</mark>, зачарованной на удачу.\
 3х1 слоты в правом верхнем углу для <mark style="color:blue;">улучшений</mark>:
 
-<table><thead><tr><th width="102" align="center"> </th><th width="223">Название</th><th>Описание</th></tr></thead><tbody><tr><td align="center"><img src="https://cdn.discordapp.com/attachments/1147960565591969843/1148344251185365002/UpgradeFTSmelting_01.gif" alt=""></td><td>Улучшение Автоплавка</td><td>Автоматически переплавляет руды при переработке</td></tr><tr><td align="center"><img src="https://cdn.discordapp.com/attachments/1147960565591969843/1148344262879084554/UpgradeFTStack_01.gif" alt=""></td><td>Улучшение Стак</td><td>Переработка руд будет идти целыми стаками (64)</td></tr><tr><td align="center"><img src="https://cdn.discordapp.com/attachments/1147960565591969843/1148344239919464580/UpgradeFTInfinite_01.gif" alt=""></td><td>Улучшение  Бесконечный двигатель</td><td>Механизм будет работать без энергии</td></tr></tbody></table>
+<table><thead><tr><th width="102" align="center"> </th><th width="223">Название</th><th>Описание</th></tr></thead><tbody><tr><td align="center"><img src="https://lh7-us.googleusercontent.com/ysXcg7eHg3UjvLezYNIYhT8U5mKnatVNMHoBHGM5DaAni1OOn314O4fyu--ZwrWRXsu9AB9OJ5hgOUDTitKvF23kYwOwIS_5fsDhsBtbd_Q9To_cLaVJFvYTArbgaC1XfQEc2c7oFPO6M7ZMVjfqS0U" alt=""></td><td>Улучшение Автоплавка</td><td>Автоматически переплавляет руды при переработке</td></tr><tr><td align="center"><img src="https://lh7-us.googleusercontent.com/vY1l1gyITsrtTg-xMzdNNjy6JfLDQbggDvxsvogcdDC47ta4X0kF2R8HxXk2Cw4GcdkJw9dx5zYD62AoKo8Aa2hX8Mpp-k-PlMzQD0kDvKoS0KD-xTgKQXLx5K__qBxEBNWAgeD1cVoiL_JejadE_7M" alt=""></td><td>Улучшение Стак</td><td>Переработка руд будет идти целыми стаками (64)</td></tr><tr><td align="center"><img src="https://lh7-us.googleusercontent.com/KqEUy2sFaUEmtGpMyXu9C-fhXFRtrBeCyf0ECVMcdAVwefYlLfW3dtwhANcHQPe68CzLI1lcwluoP2MhvFSzxLmuRwQU4reJEQeLDMG4q4Hg7pj7-xaObSiSTPKCPrDwtiMRI4S-m8dDNB5bmZroYbE" alt=""></td><td>Улучшение  Бесконечный двигатель</td><td>Механизм будет работать без энергии</td></tr></tbody></table>
 
 :pushpin: _Преобразователь имеет невидимый буфер предметов на случай, если все нижние слоты  полностью забьются._
-
-<details>
-
-<summary>Интерфейс Преобразователя удачи (GUI)</summary>
-
-##
-
-В слот для кирки установлен Модуль Удачи\
-Все слоты для улучшений заполнены\
-![](broken-reference)
-
-
-
-</details>
 
 ## Жезлы Строителя
 
 Для использования нажмите **`ПКМ`** по нужному блоку, держа в руках Жезл
 
-<table data-header-hidden><thead><tr><th width="124"></th><th width="235" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://media.discordapp.net/attachments/1167186403554250812/1183711121434234960/9e9d4b9ac6ffa06a.png?ex=658953e3&#x26;is=6576dee3&#x26;hm=f8cdeb1c01a53dca818cf10d01d3ea5dae215269f5b40c67f3cab225e14ffc59&#x26;=" alt=""></td><td align="center">Обычный Жезл Строителя</td><td>Устанавливает блоки по области 3х3 блока</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1167186403554250812/1183711136684703754/d123a525d66e29ea.png?ex=658953e7&#x26;is=6576dee7&#x26;hm=1e6e227a862cc14c7154d00e41427787be3f2598b6108535cf1e51c0283026fd&#x26;=" alt="Изображение"></td><td align="center">Творческий Жезл Строителя</td><td>Устанавливает блоки по области 7х7 блоков</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="124"></th><th width="235" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://lh7-us.googleusercontent.com/K2wdBAVWRog4G4ZczA71vwH7nh2MDBSc2l1Gublr3FWUmtQTSiHl_gbSGEQoIP-FsA0oYIP3whNWAfGGVjU0Eap5eL9VVqdyDBw5k47uZ8C3xsXnIIfXzFrOsJGo8K4MXY91GD51uH_v5jU3ry63DK4" alt=""></td><td align="center">Обычный Жезл Строителя</td><td>Устанавливает блоки по области 3х3 блока</td></tr><tr><td><img src="https://lh7-us.googleusercontent.com/x-fL2bA1MUm5Ut4hd7B8QHyu5MliiI1gm2g7BjV5fVFkjj1M8NIXgV727KysgxENyHQlyl7rdVZa5j5on9qYz4yipMR_CXm45hJWO2z7eJGCwHGqLBlZsia6uYP7dE2-TYwF8by2cuDeMEWAc4vOhLU" alt=""></td><td align="center">Творческий Жезл Строителя</td><td>Устанавливает блоки по области 7х7 блоков</td></tr></tbody></table>
 
 ## Универсальные Жезлы Строителя
 
@@ -67,9 +53,9 @@ layout:
 
 **Имеет **<mark style="color:purple;">**Фильтр предметов**</mark>** с возможностью переключения на **<mark style="color:purple;">**Белый/Чёрный**</mark>** список.**
 
-<table data-header-hidden><thead><tr><th width="108" align="center"></th><th width="118"></th><th></th></tr></thead><tbody><tr><td align="center"><img src="https://media.discordapp.net/attachments/1167186403554250812/1183711159023583323/478210d7f8ae1d9f.png?ex=658953ec&#x26;is=6576deec&#x26;hm=0ad1f6ea73649c063e2bf5333ef599f2ba57fe757690de346a9d63c658980ab6&#x26;=" alt="Изображение"></td><td>Уровень 1</td><td>Область работы - 350 блоков</td></tr><tr><td align="center"><img src="https://media.discordapp.net/attachments/1167186403554250812/1183711169056346122/2.png?ex=658953ee&#x26;is=6576deee&#x26;hm=32466aad3a1041c29f7b822aca1c214f66c5c38d47c22c53e00c2e3cddc5dff6&#x26;=" alt="Изображение"></td><td>Уровень 2</td><td>Область работы - 1 300 блоков</td></tr><tr><td align="center"><img src="https://media.discordapp.net/attachments/1167186403554250812/1183711177986031676/3.png?ex=658953f1&#x26;is=6576def1&#x26;hm=84bc1dc662b3c3bd6765300c0eab2d6ae1c69ad16a0288054cee8660a098a91f&#x26;=" alt="Изображение"></td><td>Уровень 3</td><td>Область работы - 25 000 блоков</td></tr><tr><td align="center"><img src="https://media.discordapp.net/attachments/1167186403554250812/1183711187976847370/4.png?ex=658953f3&#x26;is=6576def3&#x26;hm=c29791658435dc470b789583916ed715490cd4959e7e8809c0c8d1d5fa6860e7&#x26;=" alt="Изображение"></td><td>Уровень 4</td><td>Область работы - 50 000 блоков</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="108" align="center"></th><th width="118"></th><th></th></tr></thead><tbody><tr><td align="center"><img src="https://lh7-us.googleusercontent.com/DiWUOwQxHscxll_rxbPbqx1axyvozIVJ6KBq5o_oTsgG44gZL6wuPaYojYhalKfuiQfciLnO6WgW3sxxnc9Ut43uLL90Ok9a7tjivWDpj4Qe3gkIi1mVn4g-7czKvdWSRQXUwwtUaqVmvZZCkr2cxMM" alt=""></td><td>Уровень 1</td><td>Область работы - 350 блоков</td></tr><tr><td align="center"><img src="https://lh7-us.googleusercontent.com/GF6zFjn6Vyl93XPD0Z5wQCvhOuhfmbZ6zY2JYsD7Im-H3Qjzu1Ot95FoTYGPeXZ25K7LCgQZkfGMWF65ge1Op0Eru1AuXEg9vWI8SvK13SLsePn1lcBI8QWeenngO-Ij_ueulJwReWny9dhzlP8XIa0" alt=""></td><td>Уровень 2</td><td>Область работы - 1 300 блоков</td></tr><tr><td align="center"><img src="https://lh7-us.googleusercontent.com/JsdzlcKWXxFzg428ZuOiesDauHH34lsuEwQ29-fHNzbVWvnp3qmT0SI-HqukYX8f1lK4G7RQGLM1a3t7shdsMLspZMl-NExXEss-IwUkK2RxOjb6ksfM-8BDYky7zOdmAeeezjYFdqoTglr9ZOklxOM" alt=""></td><td>Уровень 3</td><td>Область работы - 25 000 блоков</td></tr><tr><td align="center"><img src="https://lh7-us.googleusercontent.com/r5Hi-oG1-9-vH3l1_OkUZOlZVXggXe5ouZVaERS-GEIFXiy-tgAQ0EaOX1nMII8nrMn3-3G3YiD9-XFM8r9rpIA-zdCz2jrdoCGKuihqqqnbbYMpv1SVU9TMTWSAOv0jdMkm3ZKS5c8UaQphr1CTMME" alt=""></td><td>Уровень 4</td><td>Область работы - 50 000 блоков</td></tr></tbody></table>
 
-## Кисточка ![](https://media.discordapp.net/attachments/1167186403554250812/1168885546190381118/627f88a17dd76b96.png?ex=6553647f\&is=6540ef7f\&hm=3c0c353bd296d8823ec6971d9c7a07dceaea726b21ed89072e8112e210902bdd&=)
+## Кисточка ![](https://lh7-us.googleusercontent.com/8Tw534SCWmLqCcpVd1sdcWjakJWo6C-KWNQetcLvt38SLHjzXElanpC6F5gRZl5DoDODZU9qNYdrwATD5fjBZIQFdYCbOH42LhFUmqIuHDXt5v9IVQH4PUMNlNNeulSgd-FIunxjFpMB7cuTS1XDJtY)
 
 Кисточка - предмет, позволяющий окрашивать практически все блоки из мода <mark style="color:orange;">**LoliUtility**</mark>.
 
@@ -78,18 +64,18 @@ layout:
 
 Каждую модель можно раскрасить в **63 цвета**, выбрать один из 3 типов свечения, а также 1 из 2 стилей. Таким образом для каждой модели есть целых **378** уникальных комбинаций!
 
-<figure><img src="https://media.discordapp.net/attachments/1168884513523367996/1168885251234340985/image.png?ex=65536438&#x26;is=6540ef38&#x26;hm=cfee8ff274bb0be3aa27a46a01bbfa2fb890fb14d008b6ffb3616d5f4c904285&#x26;=" alt=""><figcaption><p>Интерфейс Кисточки</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/6qQuQSmAsYL5PYEPy73WqHGc-SgqzfGrL30aj2uzDRZs4F9cUrmeOG8Hv5V0qYgMlFLkKwGbIEPaU2N1yuAH5hIblUb9i98Ia8AtBRJIIYA6Wh5ecSxtM9hAhsJ6XXPrE6YPqZNJarJpdvMRRHd55lk" alt=""><figcaption><p>Интерфейс Кисточки</p></figcaption></figure>
 
-## Стол для Покраски ![](https://media.discordapp.net/attachments/1167186277993553971/1168887297752694865/de8c9310a2d533b6.png?ex=65536620\&is=6540f120\&hm=971038f9523c4cd146acf372112a3c2e6531b619c43c41208e01dd3aefb48642&=)
+## Стол для Покраски ![](https://lh7-us.googleusercontent.com/BJonaj0s5WqkXOGrHad-q2eDjpgXSsKaZ6o3SV2Dne0mJqMTPsVg3kIXipWGnq7tvyvV9ybXDQLtPeM\_oTdY-knbV4TI47NMCr\_p8vexyrqCkkVyXSiRgcf4mAv6FuPTCaDEx2Nea0RZFuv6ZC46wg0)
 
 Блок, необходимый для покраски предметов из мода <mark style="color:orange;">**LoliUtility**</mark>.\
 Поставьте стол, положите туда <mark style="color:blue;">**Кисточку**</mark> и нужный вам предмет для покраски.
 
 ## Рюкзаки
 
-<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center"><strong>Малый Рюкзак</strong></td><td align="center"><img src="https://media.discordapp.net/attachments/1167186277993553971/1167193902109954088/dc67e23dff8af95c.png?ex=654d3d07&#x26;is=653ac807&#x26;hm=b7655305cfdb117f8b390e3e7a8b87213e4718cefb6451a147d359b8417b0814&#x26;=" alt=""></td><td align="center">Имеет <mark style="color:orange;"><strong>27</strong></mark> слотов для хранения предметов</td></tr><tr><td align="center"><strong>Средний Рюкзак</strong></td><td align="center"><img src="https://media.discordapp.net/attachments/1167186277993553971/1167193918450962432/755033a99855129e.png?ex=654d3d0b&#x26;is=653ac80b&#x26;hm=00947a7be7e2d987c1b034c2fa09e081c1b16079b20558430928cf2f8022f9e7&#x26;=" alt=""></td><td align="center">Имеет <mark style="color:orange;"><strong>54</strong></mark> слота для хранения предметов</td></tr><tr><td align="center"><strong>Большой Рюкзак</strong></td><td align="center"><img src="https://media.discordapp.net/attachments/1167186277993553971/1167193932317347840/6fde651d39a4f272.png?ex=654d3d0e&#x26;is=653ac80e&#x26;hm=07b16f82549d63ec490355fb0c7fff4e5194910ef42277b868fdc59652c63846&#x26;=" alt=""></td><td align="center">Имеет <mark style="color:orange;"><strong>108</strong></mark> слотов для хранения предметов</td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center"><strong>Малый Рюкзак</strong></td><td align="center"><img src="https://lh7-us.googleusercontent.com/6q-uXufa_TzNdBcdA4xVCgNtx_baPit3O2eSirfncVYVphywFCO6w2ExXGzNyWOgl8aIPFeN_RZT64cv_O7IwZv1tNiWoINI38bY1HutPQerJCVCw21Wm0Nf9lXRUm1w7nF2d8GwHBwmAuuimhRXG2Y" alt=""></td><td align="center">Имеет <mark style="color:orange;"><strong>27</strong></mark> слотов для хранения предметов</td></tr><tr><td align="center"><strong>Средний Рюкзак</strong></td><td align="center"><img src="https://lh7-us.googleusercontent.com/Jub-4VJEf2bJ2fGoxsxHryEAeyyzjlE8DrVo_kVgxf9QFPZd4ZcY_YNo_4CIPv8qQmYN37Gbejkmun6fq4eCVK0QLBBDX5YTBrhe_tZ6BFFLXunUqfcoFJbxQ4vEJzPeNiQ2g6qctndxbKjM2J7uQ3Q" alt=""></td><td align="center">Имеет <mark style="color:orange;"><strong>54</strong></mark> слота для хранения предметов</td></tr><tr><td align="center"><strong>Большой Рюкзак</strong></td><td align="center"><img src="https://lh7-us.googleusercontent.com/V7V6jI11BDStFnWFuFy5kKDEH2DEy4EWYf1l4w4X7E2gCpw9cMT2ul-8L7Az2rOdfyjI709BIpPV3hYtjM8Q6Vd7ejVtObvVUfo-5XHS3leGZxEJQ9pGuId9tlmUxH5YQP6ZHCaiYbAriCwXKCz4TAo" alt=""></td><td align="center">Имеет <mark style="color:orange;"><strong>108</strong></mark> слотов для хранения предметов</td></tr></tbody></table>
 
-## Лифт![](https://media.discordapp.net/attachments/1167186277993553971/1167193519866265690/f398e4089a809e31.png?ex=654d3cac\&is=653ac7ac\&hm=0a51b0be208c7244a71eb44d1e1ce18282317ec94510fae94a4db17461c7b287&=)
+## Лифт![](https://lh7-us.googleusercontent.com/Y3d81fE4tdRwHrcUBQNE-D8THiTQ-GzoaR6W0tH5PgyMkHXn2zYvF1QnLLiYopoTt5LsANIA0iGnpJ-9RJaXvzqJCm7pWIw9ygLRZK5j8p2NnLQb1VBNMfwYIAsqmOGuLKTPvEZm2MyS3q8Uym8S2ME)
 
 Поставьте 2 блока лифта на разной высоте, не меняя их расположения по координатам `X` `Z`\
 Максимальное расстояние между блоками лифта - 60 блоков\
@@ -102,12 +88,12 @@ layout:
 
 ## Плиты зарядки
 
-<table data-header-hidden data-full-width="false"><thead><tr><th width="112.33333333333331"></th><th width="151" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1167186277993553971/1168955023523324015/charging_plate_eu.gif?ex=6553a533&#x26;is=65413033&#x26;hm=dc4fdf6ec0fdf1fe0ad2b2750d9a12a76bd9982d6fbf68864e20126e6bf476ef&#x26;" alt=""></td><td align="center">Плита зарядки EU</td><td>Заряжает предметы в инвентаре игрока <mark style="color:blue;"><strong>EU</strong></mark> энергией</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1167186277993553971/1168955082314883143/charging_plate_rf.gif?ex=6553a541&#x26;is=65413041&#x26;hm=0b10a1ce6110dc1c4d7aad048929c1ed077c2f43abef4118020738afadca25f5&#x26;" alt=""></td><td align="center">Плита зарядки RF</td><td>Заряжает предметы в инвентаре игрока <mark style="color:orange;"><strong>RF</strong></mark> энергией</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1167186277993553971/1168955044947828806/charging_plate_mana.gif?ex=6553a538&#x26;is=65413038&#x26;hm=79f8ee34fd3be87ebe2d6d943b33f6e2c2ed47c8bc52d1db0682929af20de4c4&#x26;" alt=""></td><td align="center">Плита зарядки Маны</td><td>Заряжает предметы в инвентаре игрока <mark style="color:blue;"><strong>Маной</strong></mark></td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1167186277993553971/1168955092578341036/charging_plate_wand.gif?ex=6553a544&#x26;is=65413044&#x26;hm=e3456b00a605bf610fd05eb97b0ac6c125afe62704e7f98ff985cdf118d6d01c&#x26;" alt=""></td><td align="center">Плита зарядки Жезлов</td><td>Заряжает <mark style="color:purple;"><strong>жезлы</strong></mark> в инвентаре игрока за <mark style="color:blue;"><strong>Ману</strong></mark></td></tr></tbody></table>
+<table data-header-hidden data-full-width="false"><thead><tr><th width="112.33333333333331"></th><th width="151" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://lh7-us.googleusercontent.com/fipvenixjVvXoF4Pq2m54s_zGfPNTi6S3miqcsQ4EZB0RLCGPeK7j-rsQACErHpwbneh5wR5hiyNsqvlzfbetqMGESOIIrMnhTPXkRDbq4bzzyn-nmWFU99oy__zMRMAKnXlfjijRoOXJohujib9uo4" alt=""></td><td align="center">Плита зарядки EU</td><td>Заряжает предметы в инвентаре игрока <mark style="color:blue;"><strong>EU</strong></mark> энергией</td></tr><tr><td><img src="https://lh7-us.googleusercontent.com/9NGta9kxiwjHRWk6DPa9pst13MqJ2k-PfrH9N39KfbJcFTEOPgEhixc8kiR7YD06-4c_3AzacgC6MaTp0-ZGQnH2EuOk-MBm8ifbVLvcPWLEPOvhg4qp0EKh2YNceSEoAGHsvQAaXKHWbdiEPXK4YBo" alt=""></td><td align="center">Плита зарядки RF</td><td>Заряжает предметы в инвентаре игрока <mark style="color:orange;"><strong>RF</strong></mark> энергией</td></tr><tr><td><img src="https://lh7-us.googleusercontent.com/sEBQrAThiOB0WlWXOPnYBMG-VBztdfqYcvzRJOCWlFnGBuKCMs-vIgnDSzeBDdzxAtGW_Kf_Q92P4g1hBrxXDTF7vIubQiX2Pq5XOhSaePP0Hjf7gnQmEfeXt7hmEWxM0inY70QsCLvAejlZTk0oHUk" alt=""></td><td align="center">Плита зарядки Маны</td><td>Заряжает предметы в инвентаре игрока <mark style="color:blue;"><strong>Маной</strong></mark></td></tr><tr><td><img src="https://lh7-us.googleusercontent.com/TSmSWL7a3WezTqko4orycQU5Enbyu2tLlyclyePovTxfSUDWJrfo-5t5j6x6ksmG_vC8Urypd9o6F4ddk0TIcl08bWq2blc2zKQvbw25ioo-OruKUthSMoADXRgGsV4xi245dV9KhHmzwbujwl-t10o" alt=""></td><td align="center">Плита зарядки Жезлов</td><td>Заряжает <mark style="color:purple;"><strong>жезлы</strong></mark> в инвентаре игрока за <mark style="color:blue;"><strong>Ману</strong></mark></td></tr></tbody></table>
 
-## Плита телепортации ![](https://cdn.discordapp.com/attachments/1167186277993553971/1168918757129867435/teleporter.gif?ex=6553836d\&is=65410e6d\&hm=21ac5cc83f3fcc0d6c1caa2244e41e9f3e69b5321b52708f7a1e04f1424a3ecb&)
+## Плита телепортации ![](<../.gitbook/assets/2023-10-31\_14-25-49 teleporter.gif>)
 
-Для её использования вам понадобится\
-<mark style="color:blue;">**Кристалл Телепортации**</mark> ![](https://media.discordapp.net/attachments/1148342956189823076/1148344673455321108/01c97a18d5ec2741.png)\
+Для её использования вам понадобится \
+<mark style="color:blue;">**Кристалл Телепортации**</mark> ![](https://lh7-us.googleusercontent.com/fF1NOWjdl7SfQqO2AvcA9p16aL1LsIDqH5f4ovwCL1SeBJGyfP4RBkP2eJVV-82duLNC3rvzKmi\_StrajTyKA8E7a-TIu9wIHsdEu0B3VsjvfHLc-nP1KtP4VfAMcKZ6yKbcghNud-F42cw-77TNwWw)\
 Берём кристалл в руку, кликаем **`Shift + ПКМ`** там, куда мы хотим телепортироваться.\
 Кладём кристалл в плиту телепортации.\
 Теперь, как только вы наступите на плиту, то вас телепортирует туда, куда вы привязали свой кристалл.
@@ -115,11 +101,11 @@ layout:
 Настройка <mark style="color:yellow;">**`Общий Доступ`**</mark> позволит использовать плиту другим игрокам, которые не состоят в регионе\
 Настройка <mark style="color:red;">**`По сигналу`**</mark> будет телепортировать в том случае, если на плиту был подан сигнал красного камня
 
-## Обелиск Опыта ![](https://cdn.discordapp.com/attachments/1167186277993553971/1167193564422348910/637e1b10971047f7.png?ex=654d3cb7\&is=653ac7b7\&hm=ad6b59e02ca742a18cae686c651e3bd51bfb70eedcf50aebcf7f095276229e79&)&#x20;
+## Обелиск Опыта ![](https://lh7-us.googleusercontent.com/VwXzh-i-h6YxPGVbpoBbGi9u1U3\_QolS0nUj9ZrKIzI3nrDQ9MrsWlJ-19gX\_K5Pb02hQjMVYxYJsC0ZcboHchURtfEiPJxtu1mhrGhMTiiP7BWTzPyOA74X\_lQeTTVgIzOD1gyZoqTdTjvv-DLOgzY)&#x20;
 
 Механизм, который позволяет хранить весь <mark style="color:green;">**опыт**</mark> игрока в 1 блоке.
 
-## Вакуумный Сундук ![](https://media.discordapp.net/attachments/1167186277993553971/1167193701450260632/f096c0c350a0abc3.png?ex=654d3cd7\&is=653ac7d7\&hm=58303fcc939985dff165f01d3810b8c6925811e394457b0925e7c8fd094fba86&=)
+## Вакуумный Сундук ![](https://lh7-us.googleusercontent.com/6Bxrz1e2g0HZ9nzyJDZqIHTgwUlie5BOAMebVgLkIbzMxjA0CFJmcoRlNpn1qKybNHARnCe7Zh6\_VxkTev4OFTdMLu5J-Ij1SRxuW\_YLI1AWjmCOyPvKevKwKSjdOjltRcuGUDS\_1QQukvByHcLsbcY)
 
 Механизм, который собирает все выпавшие предметы.\
 Имеет свой интерфейс, где можно настроить:
@@ -127,14 +113,14 @@ layout:
 * Радиус действия (максимум 8 блоков)
 * Фильтр предметов
 
-Для настройки фильтра требуется <mark style="color:blue;">**Основной предметный фильтр**</mark> ![](https://media.discordapp.net/attachments/1167186403554250812/1167194210227724452/e587a17538777394.png?ex=654d3d51\&is=653ac851\&hm=37c91fcc7d02a09626251556eddc9883fd7d810ee364f3cc609c27032b802947&=)\
+Для настройки фильтра требуется <mark style="color:blue;">**Основной предметный фильтр**</mark> ![](https://lh7-us.googleusercontent.com/NLkcwcDenIVZ2w-oN3fkoYXHpwiHe6Nh4kDOfol5D7AdNSn1wjBpZnHiIhPX-wAqlyjTQxCLx0ja54xHbdrOp3\_R1dBeleihGDYLnT44JjZht4Bc82PQ99T-RsU0mItDhKtQwWTrRLu1W3xAvvz25YM)\
 Установите предмет в механизм, после чего можно приступать к настройке фильтра:
 
 1. Всего 5 слотов под фильтруемые предметы
 2. Есть возможность переключения [Белого / Чёрного списка](#user-content-fn-1)[^1]
 3. Режим Соблюдения / Игнорирования Метаданных
 
-## Якорь Путешествия ![](https://media.discordapp.net/attachments/1167186277993553971/1167193657116475423/84d8935fdb4af620.png?ex=654d3ccd\&is=653ac7cd\&hm=92cced38a3933d7d3efc822ea7cdb2c35a657c2d63cc62c2dc7ff3501ea9abc2&=)
+## Якорь Путешествия ![](https://lh7-us.googleusercontent.com/2jqkCwQJOdZNXOFkEU\_Hi0tR\_dNboJhON1CjFdxzOkBQGxOXjBaB-KYsAZ1kExL1MLy0s20uG6radjfzIJPvpg9mcWMCRSdQLx\_Oanyir7DyY3ZPba0UXp8SJCTz2scV4UZ26GVqe8skT3\_hKdTo5ac)
 
 Блок, позволяющий мгновенно перемещаться между другими Якорями Путешествия.\
 Встав на 1 Якорь вы увидите все остальные Якоря в радиусе 48 блоков.\
@@ -148,25 +134,25 @@ layout:
 Для перемещения между ними будет достаточно будет нажать клавишу **`Пробел`**.
 {% endhint %}
 
-## Блок снимающий эффект Невидимости ![](https://media.discordapp.net/attachments/1167186277993553971/1168995409750925423/2a3cf2d44c8e845b.png?ex=6553cad0\&is=654155d0\&hm=cfa0aaf0067a21ec7388a1a9cc128c8754a370e5692aa4be3532b2ac7a2242f0&=)
+## Блок снимающий эффект Невидимости ![](https://lh7-us.googleusercontent.com/YmpoF2b4mIdiYFqDd0Eby-zM4UIHv4UnFqSQHgZRkuNDwPOIIZMSJlRU0-niKnf6vdDCdNME3\_vFNpnXf\_Qs-SiI\_gg1n9Xdif3jbx2wP4cZmEahq8kWIUEX\_I3q4Z0IWQ3Ib843sCNs3QlbCNAUtaI)
 
 Снимает эффект невидимости у игроков в области 100x100 блоков.
 
 ***
 
-## Стойка для брони ![](https://media.discordapp.net/attachments/1167186277993553971/1168995131270119494/9e9a2d749011fcc6.png?ex=6553ca8e\&is=6541558e\&hm=96688e2ea7932056fa2c4f9f89b81d6b41e1cffdca0d01c346818104fbf310cd&=)
+## Стойка для брони ![](https://lh7-us.googleusercontent.com/3EccWbZ97ar\_PhG4WlF4XnbVTFpJ4PmK5QEObQDVxC8N2\_0uP655ZyD1CKU0X5zFED0Njv4arp3ULXQUzgkGRL7y0dN78QqK1dQk2tP7S2--bn5MdH5OUDIgT5GWhJpLqD6zPlkL0yrrUjE6L5sOqEE)
 
 Имеет 4 слота для брони и 1 слот для предмета в руках. Используется в декоративных целях.
 
 ***
 
-## Резервуар ![](https://media.discordapp.net/attachments/1167186277993553971/1177959692610306098/95a7b8f179b5ddde.png?ex=65746774\&is=6561f274\&hm=ee4a73e9da98317c0a038930994d6b379da74a0a7bc91e166840b057b4b496a2&=\&format=webp)
+## Резервуар ![](https://lh7-us.googleusercontent.com/\_To9cYDZBKsBPB93CxMAwT1j7EUdBfmpmjwHomn-cQcUh\_WFG4LRCvQ8xNiMFSUxopJ3EcsMOG4QcpNfzcTPZ9m-JMPpmP0bURRdktWBcQ6OI8Bm\_rX3HJCAwjwVYB82F0iBgIKG3Le1wZ2G4dFbYeM)
 
 Может хранить только <mark style="color:blue;">**воду**</mark>.\
 Объединяется с соседними блоками резервуара в мультиструктуру 2х2 блока.\
 Если в такую мультиструктуру залить 2 ведра <mark style="color:blue;">**воды**</mark>, то блок автоматически будет её генерировать на подобии бесконечного источника.
 
-## Спектральная дверь ![](https://media.discordapp.net/attachments/1167186277993553971/1168995160521199716/84f708947deef279.png?ex=6553ca95\&is=65415595\&hm=1b837f7338d38d72fca2d442de4b7688c0ad3ad90ff04b0a17dfabbbde7fc825&=)
+## Спектральная дверь ![](https://lh7-us.googleusercontent.com/OnK5fbv\_Fzh9ehi1LCO9I-7pWPikQlHwJqJ1YKxcaqlC6e8TAiKvp5vutD2cFBaN-e3xzTc7vBHebAWEFKaoHACja2OllhMkRrScdh5Oullaxzy7YPn5LYwYkWzgV2owiVrfSEf1HTIySX8ba7lh-IU)
 
 При нажатии **`ПКМ`** рукой по Двери, она полностью исчезает на небольшой промежуток времени. По истечению этого времени Спектральная дверь заново принимает прежнее положение, когда сквозь неё нельзя пройти ни вертикально ни горизонтально.
 
@@ -175,7 +161,7 @@ layout:
 Можно замаскировать в любой другой блок нажав им **`ПКМ`** по двери.
 {% endhint %}
 
-## Спектральная платформа ![](https://media.discordapp.net/attachments/1167186277993553971/1168995150568104006/d36311e2fa01e9af.png?ex=6553ca92\&is=65415592\&hm=60d751c319d943431cb241d0ab0f633401b956f8e8572c74dfa6239558ca818c&=)
+## Спектральная платформа ![](https://lh7-us.googleusercontent.com/Sfp27QePF4JNX\_c2EprnVtS0-pUY9jDSOhT0Q1B8eZRwR7cjhb3TVv2OPcnYC2gMBOwTk-r2DYbkYM4X6-uYjIwcQNS1dhF8-HFMWr7WCrbZiJ01\_Q9sfBfeJFKGcVFk62g3f3sRQX8l-8MroakEAMI)
 
 Работает аналогично Эфирной платформе из мода <mark style="color:purple;">**Thaumcraft**</mark>.\
 Встаньте на платформу и зажмите клавишу **`Shift`**.\

@@ -7,12 +7,12 @@
 ## Постройка ритуала
 
 Для постройки ритуала нам понадобится 2 типа блоков:\
-1\. <mark style="color:blue;">**Ритуальный камень**</mark> ![](https://media.discordapp.net/attachments/1147510306847871046/1147574640483520712/dc0cc41e42ab7faa.png)\
-2\. <mark style="color:blue;">**Ритуальный камень мастера**</mark> ![](https://media.discordapp.net/attachments/1147510306847871046/1147574654366666822/2b11e2909e610f37.png)\
+1\. <mark style="color:blue;">**Ритуальный камень**</mark> ![](https://lh7-us.googleusercontent.com/Sk8ds65kUQ29B1OzK9p4K9qvxl7oZ74VThAqKiTsCsbX06IHv-\_4sRMTCuWMSgUGdtaTUS4Q54NEaxoKKHZvvbnLvx-JqTCnk4PH5p473OohoqKK1wbjT1xwepyb5uQW9GlxVmT7gAHPQIxZjvFztPA)\
+2\. <mark style="color:blue;">**Ритуальный камень мастера**</mark> ![](https://lh7-us.googleusercontent.com/9k10SqIX\_jhITIj9bRJVr2OQneRLSFFbEEa\_bKUZbC5ohrvtfvAp3hx6GL\_Fkbo4NGNptkMJOuPojZ4r\_txKm7KbPvadZfaVcENYB\_Tk1mN\_BA1s15bUCCVwVzInbpJcBRmDf7L-cVJGpEg8ltTPXoM)\
 Отличие их в том, что для ритуала всегда нужен только 1 **Ритуальный камень мастера** и некоторое количество Ритуальных Камней.
 
 Чтобы выбрать и построить сам ритуал нам понадобится инструмент:\
-<mark style="color:purple;">**Предсказатель Ритуала**</mark> ![](https://media.discordapp.net/attachments/1147510249377513563/1147575470502719559/e2dc236e92ac71de.png)\
+<mark style="color:purple;">**Предсказатель Ритуала**</mark> ![](https://lh7-us.googleusercontent.com/gFYdwkjGdbiwCNXaPkwqb\_yowHmHb9y3DAVec2qVgpMrM4sSAXCCb-uNC8-JlzXYCC0NjjKL8P6dcXri\_ZCTWYx7X2ssRlUjat2IeBtKtwF0I3cck9-l0MhnCDAiuq3GXZR-EPv8iYTjtVLWDOxmL9U)\
 Существует 3 уровня предсказателя ритуала. Внешне они ничем не отличаются, однако они имеют свои крафты и свойства.\
 **1 Уровень** - не может размещать руны сумерек.\
 **2 Уровень** - может размещать руны сумерек.\
@@ -26,14 +26,14 @@ _`Например: В своей структуре ритуал содержи
 \- Кликнув `ПКМ` по Ритуальному Камню Мастера построится ритуал.
 
 {% hint style="success" %}
-Чтобы быстро убрать построенный ритуал, используйте <mark style="color:orange;">**Ritual Dismantler**</mark> ![](https://media.discordapp.net/attachments/1147510249377513563/1147575543986933920/Ritual\_Dismantler.png)
+Чтобы быстро убрать построенный ритуал, используйте <mark style="color:orange;">**Ritual Dismantler**</mark> ![](https://lh7-us.googleusercontent.com/5ErLwc-R8yKgwy63vLdrGrwQGTJv0dqbWge5DMu7-yl8-l8k-8FZuhXH7pqQIOd9DtUjOHuiGw02SPIz649-ywrG-WFiIBSA6ajy05or7jLh\_KFdenyoGtHRtHXlDg4MZs7KhVDV45VCUcIRdfv-gzw)
 {% endhint %}
 
 ## Активация ритуала
 
 Для активации ритуала нам понадобится **Кристалл Активации**. Существует 2 вида:\
-1\. **Слабый Кристалл Активации** ![](https://media.discordapp.net/attachments/1147510249377513563/1147575640946659449/62f8793a9ceb9ce2.png)\
-2\. **Пробуждённый Кристалл Активации** ![](https://media.discordapp.net/attachments/1147510249377513563/1147575656503324874/edf4ea8bcc837596.png)\
+1\. **Слабый Кристалл Активации** ![](https://lh7-us.googleusercontent.com/K1ut-tPRQ6wdjnNWCjliwUvffIwdbN629d-UbCNjAuf3aMOPFN1K7KYGfgwfKuWkPHEtzk-icWJyhUDBvZZ5QewCm5wJfZbw4YuuSmzLPAzXzLooV4ehNMpvFPyRM1zJP1k-8Ebc9B4P32u6g\_O2UVs)\
+2\. **Пробуждённый Кристалл Активации** ![](https://lh7-us.googleusercontent.com/dlO4svqT0\_-Mw-z1Mio9G9K1AId2yoRwhWN2xqMGjOCzbx29rTls11dMplGzvgOAo57Tm83rzmP32oLzIestGrnwc\_Cg6PkttUuBApYuV6FN63Vs519CI-Xh4nzUjtPzpCYAb\_ipXn7r2Mz4hdhAIEw)\
 Разница в том, что `Пробуждённый кристалл активации` можно использовать для всех видов ритуалов, в то время как `Слабый кристалл активации` будет работать только на некоторые, более простые, ритуалы.\
 Чтобы активировать ритуал, нужно нажать **Кристаллом Активации** по **Ритуальному Камню Мастера** `ПКМ`.
 
