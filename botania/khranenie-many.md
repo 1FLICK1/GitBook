@@ -32,7 +32,7 @@ layout:
 Установите нужный Катализатор [<mark style="color:green;">**под Бассейн**</mark>](#user-content-fn-3)[^3] для его работы.
 
 :pushpin: <mark style="color:yellow;">**`Бассейны Маны из мода LoliMagically`**</mark> \
-:pushpin: [<mark style="color:yellow;">**`Звезда Маны`**</mark>](../interesno-znat/botania.md#zvezda-many)&#x20;
+:pushpin: [<mark style="color:yellow;">**`Звезда Маны`**</mark>](../dopolnitelnyi-kontent/botania.md#zvezda-many)&#x20;
 
 ## Планшет Маны ![](https://lh7-us.googleusercontent.com/H\_WHGcUd7FpDswb-EiFaX0JbIDbdDE4ayp2SxZAei0YNLgf7U\_E4WhPWwlysDPgPPJPTGVMbp2C9-cp1loz-RJuzoyNIoFzwxfCfW6ZDdtKJcryZLSQvOUQSbpEYsVXXjqyKA85Jd0TazM9tWKxDdek)
 

@@ -27,7 +27,7 @@ layout:
 
 Существует 16 видов цветов, которые случайном образом спавнятся по всему миру.\
 Для их получения можно также использовать [<mark style="color:green;">Цветочное Удобрение</mark>](#user-content-fn-1)[^1] ![](https://lh7-us.googleusercontent.com/64mD7fph1iX4OHKv8M5luUoTCkyalBBCi4jhl0fl5WY6L9uMexnBmN-9YARmD0foMNpzAsJHB-tF00-0IjaxY3cbAluiRAWs943w83zMkkGpdXutpNbNHqaNGmYI7KKY-Yx-6BzWX-SQBr7CgqYepPE) \
-:pushpin: [<mark style="color:yellow;">**`Способ бесконечной добычи лепестков`**</mark>](../interesno-znat/botania.md#beskonechnaya-dobycha-lepestkov)&#x20;
+:pushpin: [<mark style="color:yellow;">**`Способ бесконечной добычи лепестков`**</mark>](../dopolnitelnyi-kontent/botania.md#beskonechnaya-dobycha-lepestkov)&#x20;
 
 {% hint style="success" %}
 Для удобного сбора цветов рекомендуем использовать [Цветочный мешочек](#user-content-fn-2)[^2] ![](https://lh7-us.googleusercontent.com/WzXcBPabx-94D6X475gQnFcBOGepyI8qK6UboqZ\_jqiGd6mSVwKGogDJN8WbNyiismxo7YevhiAXG6XqrHExVRRIGkl\_UtzX2Te5JFwBq\_C-ATv\_LFpgHH8ypkh7mynQO8Ib34RgYvEM8T2zKmfVhcM)
@@ -53,7 +53,7 @@ layout:
 2\. Дерево![](https://lh7-us.googleusercontent.com/nsddm49dLJK0pxBVzPsx8X0wEJZe8yb4oXLQXZDQbjR7A3QqDiQuQerx-dDAsTC6EnBiOJDAXIfcsam9fs8h8iIGfQS\_t5JxTQ7tzLuEc4B3lImTQ56JFe2tSsySt9iNS3xsJbfkl-hz3\_8J0urw-CE) -> Жизнедерево ![](https://lh7-us.googleusercontent.com/uFRSv03r2J\_FgxH3FNzH0l9puFE2o10zq9GgkjBoL7c3JnCLavNrHBMdWpkhRVzr7jM3snp4P8EfL9rJZaThWTtVotblK7bonWH4atsp\_tDSDq3bz3yIVlm2kwZ5FWjdkezp2qYXTJ1EbE44n82fjac)
 
 {% hint style="info" %}
-Превращение можно ускорить **в 2 раза** разместив чистую маргаритку на [<mark style="color:yellow;">**Зачарованной Почве**</mark>](../interesno-znat/botania.md#zacharovannaya-pochva):pushpin:
+Превращение можно ускорить **в 2 раза** разместив чистую маргаритку на [<mark style="color:yellow;">**Зачарованной Почве**</mark>](../dopolnitelnyi-kontent/botania.md#zacharovannaya-pochva):pushpin:
 {% endhint %}
 
 ## Первая Мана<img src="../.gitbook/assets/Mana.png" alt="" data-size="line">

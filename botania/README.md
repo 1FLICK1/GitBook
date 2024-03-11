@@ -46,8 +46,8 @@ coverY: 0
 
 ## :pushpin: Дополнительный контент
 
-{% content-ref url="../interesno-znat/botania.md" %}
-[botania.md](../interesno-znat/botania.md)
+{% content-ref url="../dopolnitelnyi-kontent/botania.md" %}
+[botania.md](../dopolnitelnyi-kontent/botania.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

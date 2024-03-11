@@ -36,8 +36,8 @@ coverY: 80.35242290748899
 
 ## :pushpin: Дополнительный контент
 
-{% content-ref url="../interesno-znat/blood-magic.md" %}
-[blood-magic.md](../interesno-znat/blood-magic.md)
+{% content-ref url="../dopolnitelnyi-kontent/blood-magic.md" %}
+[blood-magic.md](../dopolnitelnyi-kontent/blood-magic.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

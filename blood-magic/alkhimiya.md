@@ -13,7 +13,7 @@
 
 * `Алхимический Маршрутизатор` ![](https://lh7-us.googleusercontent.com/9QUGIDDuwj2Fz0bTIBwFWT-nyBkvRUdh9Hn38PCDAcA8iqwsZwwk2Nu9kn4flgDMN9-kjil1-qmkQfl2NA7F1BBEHJd5LX7HSG9K19EjCFAhltI-8SdyWDeiwv7LR2b0f4egajNh2U5VfiMOyDLYVFA)
 * `Алхимический Очиститель` ![](https://lh7-us.googleusercontent.com/leiBYVpKAKarYAmL46KE9S7bGMI68I9-YGoFJyvg-VzC8iklezND-F0WOU3NPrA2LfPjEfnuUmcAlet53ph\_hmUumGPlcCICWuv\_fnNZeRoAyXG74C6wBoUSA2JlSUW9koRRP8Jb4NnuQjf0T\_oCszc)
-* :pushpin: [<mark style="color:yellow;">`Алхимический Сегментатор`</mark>](../interesno-znat/blood-magic.md#alkhimicheskii-segmentator) ![](https://lh7-us.googleusercontent.com/HezMpNMla9Ndl99xbXlpDiNwrGSidu0Q8c2P2vP\_jegJ2glOw8NTiGplDzNvO5hJUvAicG4AvwBp9TF-cgX2m7iuAb48hzDv4gIZBd\_tZqvfquBWTYvNniXifVsU9LbQNRoBc0ZQ9KjHDw1iUU-\_0Ag)
+* :pushpin: [<mark style="color:yellow;">`Алхимический Сегментатор`</mark>](../dopolnitelnyi-kontent/blood-magic.md#alkhimicheskii-segmentator) ![](https://lh7-us.googleusercontent.com/HezMpNMla9Ndl99xbXlpDiNwrGSidu0Q8c2P2vP\_jegJ2glOw8NTiGplDzNvO5hJUvAicG4AvwBp9TF-cgX2m7iuAb48hzDv4gIZBd\_tZqvfquBWTYvNniXifVsU9LbQNRoBc0ZQ9KjHDw1iUU-\_0Ag)
 
 С помощью <mark style="color:blue;">**Маршрутизатора**</mark> мы создаём маршрут, по которому будут поступать Реагенты.\
 **`ПКМ`** по контейнеру 1 - Выбираем точку отправителя.\
