@@ -1,6 +1,7 @@
 # Table of contents
 
 * [⭐ Добро пожаловать!](README.md)
+  * [Официальный сайт LoliLand](https://loliland.ru/ru)
 * [💎 LoliLand Addons](loliland-addons/README.md)
   * [🔸 LoliTechnologies](loliland-addons/lolitechnologies.md)
   * [🔸 LoliUtility](loliland-addons/loliutility.md)
