@@ -1,15 +1,13 @@
 ---
 description: >-
   Вы попали на главную страницу руководства по модам, которые установлены на
-  сервере TecnoMagicRPG лучшего проекта LoliLand!
+  сервере TecnoMagicRPG лучшего проекта [LoliLand](https://loliland.ru/ru)!
 cover: https://i.gifer.com/76YM.gif
 coverY: -143.29224075416968
 metaLinks: {}
 ---
 
 # ⭐ Добро пожаловать!
-
-Вы попали на главную страницу руководства по модам, которые установлены на сервере TecnoMagicRPG лучшего проекта [LoliLand](https://loliland.ru/ru)!
 
 {% hint style="warning" %}
 **Обратите внимание!**\
