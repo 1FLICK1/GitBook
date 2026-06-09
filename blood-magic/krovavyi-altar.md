@@ -2,7 +2,7 @@
 
 ## Руны. Типы рун. Свойства рун
 
-В разделе [**Знакомство с модом**](broken-reference) упоминалось такое понятие, как \
+В разделе [**Знакомство с модом**](/broken/pages/TppQjoVFaBv9ptswzY5P) упоминалось такое понятие, как \
 `Уровень кровавого алтаря`\
 В этом разделе мы разберём уровни кровавого алтаря и как их получать.
 
@@ -22,7 +22,7 @@
 ## Уровни кровавого алтаря
 
 {% hint style="info" %}
-Чтобы узнать какого уровня кровавый алтарь, используйте  [Сигил Предсказания](sigily.md) ![](https://lh7-us.googleusercontent.com/V9afUMEDxb8LUAQKKMMxs2S-oxs1zoo5jUWAIrYhZIO16arBmObWsEm\_BCYf-ZX5NY6\_KfXZQySquNmKZ4mLdowpYvgauy9GYnoSJ-rQqxnIB974l-aaRmLjjf5YKA\_ZUk9picZ-7Z0gPgK9uH-Na1s)
+Чтобы узнать какого уровня кровавый алтарь, используйте  [Сигил Предсказания](sigily.md) ![](https://lh7-us.googleusercontent.com/V9afUMEDxb8LUAQKKMMxs2S-oxs1zoo5jUWAIrYhZIO16arBmObWsEm_BCYf-ZX5NY6_KfXZQySquNmKZ4mLdowpYvgauy9GYnoSJ-rQqxnIB974l-aaRmLjjf5YKA_ZUk9picZ-7Z0gPgK9uH-Na1s)
 {% endhint %}
 
 ### Уровень 1
@@ -31,16 +31,16 @@
 <mark style="color:orange;">**Новых рун**</mark> - 0\
 <mark style="color:yellow;">**Габариты**</mark> - 1х1х1 блока\
 Сам по себе блок кровавого алтаря имеет первый уровень. Не требует рун.\
-![](https://lh7-us.googleusercontent.com/h-BgMQAs4RR-Vva6n8WiDr7kOpJQmQSnw69ZLWWe4WQyLeltN4M4cidgWqyHjs1xLInhomYmbm-i4Z0BgqgkmYK-UfE00qdZRUjKr-K-6PeR5TZnyhuadE7r0JmUXzms-kx\_UMdDAbgM4HMpoTHHBm0)
+![](https://lh7-us.googleusercontent.com/h-BgMQAs4RR-Vva6n8WiDr7kOpJQmQSnw69ZLWWe4WQyLeltN4M4cidgWqyHjs1xLInhomYmbm-i4Z0BgqgkmYK-UfE00qdZRUjKr-K-6PeR5TZnyhuadE7r0JmUXzms-kx_UMdDAbgM4HMpoTHHBm0)
 
 ***
 
 ### Уровень 2
 
-<mark style="color:orange;">**Всего рун**</mark>** -** 8\
+<mark style="color:orange;">**Всего рун**</mark>**&#x20;-** 8\
 <mark style="color:orange;">**Новых рун**</mark> - 8\
 <mark style="color:yellow;">**Габариты**</mark> - 3х3х2 блока\
-_Вокруг блока, под алтарем есть 8 кровавых рун . Под блоком алтаря руны быть не должно._
+&#xNAN;_&#x412;округ блока, под алтарем есть 8 кровавых рун . Под блоком алтаря руны быть не должно._
 
 {% embed url="https://skfb.ly/oKOpZ" %}
 Модель Кровавого Алтаря Уровень 2
@@ -53,7 +53,7 @@ _Вокруг блока, под алтарем есть 8 кровавых ру
 <mark style="color:orange;">**Всего рун**</mark> - 28\
 <mark style="color:orange;">**Новых рун**</mark> - 20 _(по 5 с каждой стороны)_\
 <mark style="color:yellow;">**Габариты**</mark> - 7х7х4 блока\
-_Новые руны расположены на 2 блока дальше и на 1 блок ниже по сравнению с рунами второго уровня. <mark style="color:red;">**Колонны должны быть из твёрдых блоков!**</mark>_
+&#xNAN;_&#x41D;овые руны расположены на 2 блока дальше и на 1 блок ниже по сравнению с рунами второго уровня. <mark style="color:red;">**Колонны должны быть из твёрдых блоков!**</mark>_
 
 {% embed url="https://skfb.ly/oKO7w" %}
 Модель Кровавого Алтаря Уровень 3
@@ -66,8 +66,8 @@ _Новые руны расположены на 2 блока дальше и н
 <mark style="color:orange;">**Всего рун**</mark> - 56\
 <mark style="color:orange;">**Новых рун**</mark> - 28 _(по 7 с каждой стороны)_\
 <mark style="color:yellow;">**Габариты**</mark> - 11х11х6 блока\
-_Новые руны расположены на 2 блока дальше и на 1 блок ниже рун 3-го уровня. Требуются_ **`Кровавые кирпичи`**, _они должны быть расположены на 1 уровень выше_ **`Светокамня`**_. Обратите внимание, что между колонной и последней из кровавых рун с каждой стороны есть пространство, поэтому только 7 с каждой стороны._ \
-_<mark style="color:red;">**Колонны должны быть из твёрдых блоков!**</mark>_
+&#xNAN;_&#x41D;овые руны расположены на 2 блока дальше и на 1 блок ниже рун 3-го уровня. Требуются_ **`Кровавые кирпичи`**, _они должны быть расположены на 1 уровень выше_ **`Светокамня`**_. Обратите внимание, что между колонной и последней из кровавых рун с каждой стороны есть пространство, поэтому только 7 с каждой стороны._ \
+&#xNAN;_<mark style="color:red;">**Колонны должны быть из твёрдых блоков!**</mark>_
 
 {% embed url="https://skfb.ly/oKOqu" %}
 Модель Кровавого Алтаря Уровень 4
@@ -94,7 +94,7 @@ _<mark style="color:red;">**Колонны должны быть из твёрд
 <mark style="color:orange;">**Новых рун**</mark> - 76 _(по 19 с каждой стороны)_\
 <mark style="color:yellow;">**Габариты**</mark> - 23х23х9 блока\
 Новые руны расположены на 3 блока дальше и на 1 блок ниже по сравнению с рунами пятого уровня. На каждом углу требуется поставить по блоку **`Кирпича Кристального Скопления`**, они должны быть на 1 уровень выше **`Кровавого Кирпича`**.\
-_<mark style="color:red;">**Колонны должны быть из твёрдых блоков!**</mark>_
+&#xNAN;_<mark style="color:red;">**Колонны должны быть из твёрдых блоков!**</mark>_
 
 {% embed url="https://skfb.ly/oKOUy" %}
 Модель Кровавого Алтаря Уровень 6

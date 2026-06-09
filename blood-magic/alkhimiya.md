@@ -4,7 +4,7 @@
 
 Эффекты большинства ритуалов можно усилить, вставив определенный алхимический элемент (реагент) в **Ритуальный камень мастера**.&#x20;
 
-Чтобы подать реагент в ритуал, его нужно "расплавить", чтобы это сделать нам понадобится  <mark style="color:purple;">**Алхимический Кальцинатор**</mark> ![](https://lh7-us.googleusercontent.com/TuBNnKVYyI7hYCMST4vwmohS7C3qMjpTuNaB7WvrOZNX0rAXG0re-fEr0inBLHT3jCKyq7lVnAIxb5ndDF7lRS4VRbIKNOqEx3-HWpkrwx28lwCfOxeCyKDWUWe0OaGtgWkPG9Ke\_Z31Y8GDRUdjYdM)\
+Чтобы подать реагент в ритуал, его нужно "расплавить", чтобы это сделать нам понадобится  <mark style="color:purple;">**Алхимический Кальцинатор**</mark> ![](https://lh7-us.googleusercontent.com/TuBNnKVYyI7hYCMST4vwmohS7C3qMjpTuNaB7WvrOZNX0rAXG0re-fEr0inBLHT3jCKyq7lVnAIxb5ndDF7lRS4VRbIKNOqEx3-HWpkrwx28lwCfOxeCyKDWUWe0OaGtgWkPG9Ke_Z31Y8GDRUdjYdM)\
 Кладём в кальцинатор любой кровавый шар, привязанный к кровавой сети и подаём сам реагент. Сделать это можно как нажатием `ПКМ` так и через Воронку.
 
 Далее уже расплавленный реагент нам нужно вывести. Чтобы управлять реагентами есть несколько инструментов, которые помогут в этом:
@@ -12,14 +12,14 @@
 ### Управление Реагентами
 
 * `Алхимический Маршрутизатор` ![](https://lh7-us.googleusercontent.com/9QUGIDDuwj2Fz0bTIBwFWT-nyBkvRUdh9Hn38PCDAcA8iqwsZwwk2Nu9kn4flgDMN9-kjil1-qmkQfl2NA7F1BBEHJd5LX7HSG9K19EjCFAhltI-8SdyWDeiwv7LR2b0f4egajNh2U5VfiMOyDLYVFA)
-* `Алхимический Очиститель` ![](https://lh7-us.googleusercontent.com/leiBYVpKAKarYAmL46KE9S7bGMI68I9-YGoFJyvg-VzC8iklezND-F0WOU3NPrA2LfPjEfnuUmcAlet53ph\_hmUumGPlcCICWuv\_fnNZeRoAyXG74C6wBoUSA2JlSUW9koRRP8Jb4NnuQjf0T\_oCszc)
-* :pushpin: [<mark style="color:yellow;">`Алхимический Сегментатор`</mark>](../dopolnitelnyi-kontent/blood-magic.md#alkhimicheskii-segmentator) ![](https://lh7-us.googleusercontent.com/HezMpNMla9Ndl99xbXlpDiNwrGSidu0Q8c2P2vP\_jegJ2glOw8NTiGplDzNvO5hJUvAicG4AvwBp9TF-cgX2m7iuAb48hzDv4gIZBd\_tZqvfquBWTYvNniXifVsU9LbQNRoBc0ZQ9KjHDw1iUU-\_0Ag)
+* `Алхимический Очиститель` ![](https://lh7-us.googleusercontent.com/leiBYVpKAKarYAmL46KE9S7bGMI68I9-YGoFJyvg-VzC8iklezND-F0WOU3NPrA2LfPjEfnuUmcAlet53ph_hmUumGPlcCICWuv_fnNZeRoAyXG74C6wBoUSA2JlSUW9koRRP8Jb4NnuQjf0T_oCszc)
+* :pushpin: [<mark style="color:yellow;">`Алхимический Сегментатор`</mark>](../dopolnitelnyi-kontent/blood-magic.md#alkhimicheskii-segmentator) ![](https://lh7-us.googleusercontent.com/HezMpNMla9Ndl99xbXlpDiNwrGSidu0Q8c2P2vP_jegJ2glOw8NTiGplDzNvO5hJUvAicG4AvwBp9TF-cgX2m7iuAb48hzDv4gIZBd_tZqvfquBWTYvNniXifVsU9LbQNRoBc0ZQ9KjHDw1iUU-_0Ag)
 
 С помощью <mark style="color:blue;">**Маршрутизатора**</mark> мы создаём маршрут, по которому будут поступать Реагенты.\
-**`ПКМ`** по контейнеру 1 - Выбираем точку отправителя.\
-**`Shift + ПКМ`** по контейнеру 1 - Отмечаем отправляемый реагент \
-**`ПКМ`** по контейнеру 2 - Устанавливаем точку принимающего.\
-**`Shift + ПКМ`** по воздуху - Очищаем точку отправителя из настроек маршрутизатора.
+&#xNAN;**`ПКМ`** по контейнеру 1 - Выбираем точку отправителя.\
+&#xNAN;**`Shift + ПКМ`** по контейнеру 1 - Отмечаем отправляемый реагент \
+&#xNAN;**`ПКМ`** по контейнеру 2 - Устанавливаем точку принимающего.\
+&#xNAN;**`Shift + ПКМ`** по воздуху - Очищаем точку отправителя из настроек маршрутизатора.
 
 С помощью <mark style="color:blue;">**Очистителя**</mark> мы можем полностью очистить все соединения у контейнера нажав по нему **`ПКМ`**
 
@@ -64,7 +64,7 @@ _Возможно ничего не понятно, но скоро разбер
 * Выбираем передаваемый реагент (**`Shift + ПКМ`** по Кальцинатору).
 * Выбираем точку принимающего (**`ПКМ`** по Реле)
 * Очищаем точку отправителя (**`Shift + ПКМ`** по воздуху)\
-  _Так как Маршрутизатор всё ещё настроен на то, что отправителем является Кальцинатор._
+  &#xNAN;_&#x422;ак как Маршрутизатор всё ещё настроен на то, что отправителем является Кальцинатор._
 * Выбираем точку отправителя (**`ПКМ`** по Реле).
 * Выбираем точку принимающего (**`ПКМ`** по Ритуальному Камню Мастера).\
   _Так как реагент мы не изменяли, то_ **`Shift + ПКМ`** _по реле нажимать не обязательно._

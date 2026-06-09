@@ -7,17 +7,17 @@
 ## Постройка ритуала
 
 Для постройки ритуала нам понадобится 2 типа блоков:\
-1\. <mark style="color:blue;">**Ритуальный камень**</mark> ![](https://lh7-us.googleusercontent.com/Sk8ds65kUQ29B1OzK9p4K9qvxl7oZ74VThAqKiTsCsbX06IHv-\_4sRMTCuWMSgUGdtaTUS4Q54NEaxoKKHZvvbnLvx-JqTCnk4PH5p473OohoqKK1wbjT1xwepyb5uQW9GlxVmT7gAHPQIxZjvFztPA)\
-2\. <mark style="color:blue;">**Ритуальный камень мастера**</mark> ![](https://lh7-us.googleusercontent.com/9k10SqIX\_jhITIj9bRJVr2OQneRLSFFbEEa\_bKUZbC5ohrvtfvAp3hx6GL\_Fkbo4NGNptkMJOuPojZ4r\_txKm7KbPvadZfaVcENYB\_Tk1mN\_BA1s15bUCCVwVzInbpJcBRmDf7L-cVJGpEg8ltTPXoM)\
+1\. <mark style="color:blue;">**Ритуальный камень**</mark> ![](https://lh7-us.googleusercontent.com/Sk8ds65kUQ29B1OzK9p4K9qvxl7oZ74VThAqKiTsCsbX06IHv-_4sRMTCuWMSgUGdtaTUS4Q54NEaxoKKHZvvbnLvx-JqTCnk4PH5p473OohoqKK1wbjT1xwepyb5uQW9GlxVmT7gAHPQIxZjvFztPA)\
+2\. <mark style="color:blue;">**Ритуальный камень мастера**</mark> ![](https://lh7-us.googleusercontent.com/9k10SqIX_jhITIj9bRJVr2OQneRLSFFbEEa_bKUZbC5ohrvtfvAp3hx6GL_Fkbo4NGNptkMJOuPojZ4r_txKm7KbPvadZfaVcENYB_Tk1mN_BA1s15bUCCVwVzInbpJcBRmDf7L-cVJGpEg8ltTPXoM)\
 Отличие их в том, что для ритуала всегда нужен только 1 **Ритуальный камень мастера** и некоторое количество Ритуальных Камней.
 
 Чтобы выбрать и построить сам ритуал нам понадобится инструмент:\
-<mark style="color:purple;">**Предсказатель Ритуала**</mark> ![](https://lh7-us.googleusercontent.com/gFYdwkjGdbiwCNXaPkwqb\_yowHmHb9y3DAVec2qVgpMrM4sSAXCCb-uNC8-JlzXYCC0NjjKL8P6dcXri\_ZCTWYx7X2ssRlUjat2IeBtKtwF0I3cck9-l0MhnCDAiuq3GXZR-EPv8iYTjtVLWDOxmL9U)\
+<mark style="color:purple;">**Предсказатель Ритуала**</mark> ![](https://lh7-us.googleusercontent.com/gFYdwkjGdbiwCNXaPkwqb_yowHmHb9y3DAVec2qVgpMrM4sSAXCCb-uNC8-JlzXYCC0NjjKL8P6dcXri_ZCTWYx7X2ssRlUjat2IeBtKtwF0I3cck9-l0MhnCDAiuq3GXZR-EPv8iYTjtVLWDOxmL9U)\
 Существует 3 уровня предсказателя ритуала. Внешне они ничем не отличаются, однако они имеют свои крафты и свойства.\
 **1 Уровень** - не может размещать руны сумерек.\
 **2 Уровень** - может размещать руны сумерек.\
 **3 Уровень** - может размещать руны сумерек и рассвета.\
-_`Например: В своей структуре ритуал содержит руну сумерек. В таком случае вам понадобится предсказатель ритуала минимум 2-го уровня.`_\
+&#xNAN;_`Например: В своей структуре ритуал содержит руну сумерек. В таком случае вам понадобится предсказатель ритуала минимум 2-го уровня.`_\
 Чтобы построить ритуал вам нужно: \
 1\. Поставить <mark style="color:blue;">Ритуальный камень мастера</mark> \
 2\. Взять в инвентарь нужно количество <mark style="color:blue;">Ритуальных камней</mark> \
@@ -26,14 +26,14 @@ _`Например: В своей структуре ритуал содержи
 \- Кликнув `ПКМ` по Ритуальному Камню Мастера построится ритуал.
 
 {% hint style="success" %}
-Чтобы быстро убрать построенный ритуал, используйте <mark style="color:orange;">**Ritual Dismantler**</mark> ![](https://lh7-us.googleusercontent.com/5ErLwc-R8yKgwy63vLdrGrwQGTJv0dqbWge5DMu7-yl8-l8k-8FZuhXH7pqQIOd9DtUjOHuiGw02SPIz649-ywrG-WFiIBSA6ajy05or7jLh\_KFdenyoGtHRtHXlDg4MZs7KhVDV45VCUcIRdfv-gzw)
+Чтобы быстро убрать построенный ритуал, используйте <mark style="color:orange;">**Ritual Dismantler**</mark> ![](https://lh7-us.googleusercontent.com/5ErLwc-R8yKgwy63vLdrGrwQGTJv0dqbWge5DMu7-yl8-l8k-8FZuhXH7pqQIOd9DtUjOHuiGw02SPIz649-ywrG-WFiIBSA6ajy05or7jLh_KFdenyoGtHRtHXlDg4MZs7KhVDV45VCUcIRdfv-gzw)
 {% endhint %}
 
 ## Активация ритуала
 
 Для активации ритуала нам понадобится **Кристалл Активации**. Существует 2 вида:\
-1\. **Слабый Кристалл Активации** ![](https://lh7-us.googleusercontent.com/K1ut-tPRQ6wdjnNWCjliwUvffIwdbN629d-UbCNjAuf3aMOPFN1K7KYGfgwfKuWkPHEtzk-icWJyhUDBvZZ5QewCm5wJfZbw4YuuSmzLPAzXzLooV4ehNMpvFPyRM1zJP1k-8Ebc9B4P32u6g\_O2UVs)\
-2\. **Пробуждённый Кристалл Активации** ![](https://lh7-us.googleusercontent.com/dlO4svqT0\_-Mw-z1Mio9G9K1AId2yoRwhWN2xqMGjOCzbx29rTls11dMplGzvgOAo57Tm83rzmP32oLzIestGrnwc\_Cg6PkttUuBApYuV6FN63Vs519CI-Xh4nzUjtPzpCYAb\_ipXn7r2Mz4hdhAIEw)\
+1\. **Слабый Кристалл Активации** ![](https://lh7-us.googleusercontent.com/K1ut-tPRQ6wdjnNWCjliwUvffIwdbN629d-UbCNjAuf3aMOPFN1K7KYGfgwfKuWkPHEtzk-icWJyhUDBvZZ5QewCm5wJfZbw4YuuSmzLPAzXzLooV4ehNMpvFPyRM1zJP1k-8Ebc9B4P32u6g_O2UVs)\
+2\. **Пробуждённый Кристалл Активации** ![](https://lh7-us.googleusercontent.com/dlO4svqT0_-Mw-z1Mio9G9K1AId2yoRwhWN2xqMGjOCzbx29rTls11dMplGzvgOAo57Tm83rzmP32oLzIestGrnwc_Cg6PkttUuBApYuV6FN63Vs519CI-Xh4nzUjtPzpCYAb_ipXn7r2Mz4hdhAIEw)\
 Разница в том, что `Пробуждённый кристалл активации` можно использовать для всех видов ритуалов, в то время как `Слабый кристалл активации` будет работать только на некоторые, более простые, ритуалы.\
 Чтобы активировать ритуал, нужно нажать **Кристаллом Активации** по **Ритуальному Камню Мастера** `ПКМ`.
 
@@ -64,7 +64,7 @@ _`Например: В своей структуре ритуал содержи
 Для активации требуется: <mark style="color:blue;">**Слабый Кристалл Активации**</mark>\
 Количество ритуальных камней - 24\
 <mark style="color:red;">**Описание**</mark> - Чтобы создать предмет вам нужно сбросить нужный предмет на ритуальный камень мастера и активировать ритуал. За 1 активацию ритуала можно создать только 1 предмет из рецепта. **Рекомендуется включить магнит, так как после трансформации предмет выпадет на землю!**\
-![](https://ftbwiki.org/images/9/99/Ritual\_of\_Binding.png)![](../.gitbook/assets/Screenshot\_1.jpg)
+![](https://ftbwiki.org/images/9/99/Ritual_of_Binding.png)![](../.gitbook/assets/Screenshot_1.jpg)
 
 </details>
 
@@ -80,7 +80,7 @@ _Создаёт некоторые предметы из мода Blood Magic_ :
 <mark style="color:red;">**Описание**</mark> - Работает по той же механике, что и Ritual Of Binding. Скидываете нужный предмет на Ритуальный Камень Мастера и активируете ритуал.\
 [_Реагенты_](alkhimiya.md): \
 Sanctus - Ритуал будет отвязывать предметы от кровавой сети.\
-![](https://ftbwiki.org/images/c/c7/Ritual\_of\_Unbinding.png)
+![](https://ftbwiki.org/images/c/c7/Ritual_of_Unbinding.png)
 
 </details>
 
@@ -101,7 +101,7 @@ _Способен отвязать предмет от кровавой сети
 Potentia - Увеличивает вертикальный диапазон до 20. Общий диапазон (11x20x11)\
 Tennebrae - Увеличивает количество LP в 2 раза.\
 Offensa - Увеличивает LP и количество урона в 2 раза.\
-![](https://ftbwiki.org/images/e/ee/Well\_of\_Suffering.png)
+![](https://ftbwiki.org/images/e/ee/Well_of_Suffering.png)
 
 </details>
 
@@ -120,7 +120,7 @@ Offensa - Увеличивает LP и количество урона в 2 ра
 Tenebrae - эффект будет действовать на все entity.\
 Virtus - увеличивает дальность телепорта entity до 300 блоков.\
 Potentia - увеличивает дальность телепортации до 101x101x101 блоков.\
-![](https://ftbwiki.org/images/9/98/Aura\_of\_Expulsion.jpg)
+![](https://ftbwiki.org/images/9/98/Aura_of_Expulsion.jpg)
 
 </details>
 
@@ -158,7 +158,7 @@ _Автоматизация алхимической и химической у�
 <mark style="color:red;">**Описание**</mark> - Ритуал собирает предметы из мира в кубе 21x21x21 и помещает эти предметы в инвентарь прямо над Ритуальным камнем мастера.\
 [_Реагенты_](alkhimiya.md): \
 Reductus - добавляет задержку в 60 тиков перед сбором предметов.\
-![](broken-reference)
+![](/broken/files/LklZkrvMfQ067Nk7WfJ9)
 
 </details>
 
@@ -202,7 +202,7 @@ _Создаёт эллипсоид с указанным радиусом_:arrow
 Для активации требуется: <mark style="color:blue;">**Слабый Кристалл Активации**</mark>\
 Количество ритуальных камней - 24\
 <mark style="color:red;">**Описание**</mark> - Механику ритуала довольно сложно описать, но прочитать вы её можете здесь:\
-[Orchestra of the Phantom Hands](https://ftbwiki.org/Orchestra\_of\_the\_Phantom\_Hands)
+[Orchestra of the Phantom Hands](https://ftbwiki.org/Orchestra_of_the_Phantom_Hands)
 
 </details>
 
@@ -239,7 +239,7 @@ _Переносит предметы_:arrow\_up:
 
 При активации Ритуал изменит параметры биома в области 21x21x21 блок. Но её можно настроить с помощью Кровавого Кирпича, разместив рамку из них на 1 блок выше Ритуальных Камней. Ритуал изменит биом в указанной области, **в том числе и в блоках самой рамки!**
 
-![](https://ftbwiki.org/images/b/b7/Ritual\_of\_Gaia's\_Transformation.png)
+![](https://ftbwiki.org/images/b/b7/Ritual_of_Gaia's_Transformation.png)
 
 </details>
 
@@ -253,7 +253,7 @@ _Изменяет биом (температуру/влажность)_:arrow\_u
 Для активации требуется: <mark style="color:orange;">**Пробуждённый Кристалл Активации**</mark>\
 Количество ритуальных камней - 68\
 <mark style="color:red;">**Описание**</mark> - Для ритуала необходимы 4 пьедестала, расположенные на небольших платформах с центром из Рун Сумерек и Кровавый Алтарь поверх Ритуального камня мастера. Вы кладете предмет, который хотите зачаровать, в алтарь, а зачарованные книги (минимум 1, максимум 4) в любой из пьедесталов. Этот Ритуал потребляет разное количество LP для зачарования, но 50 000 LP для активации.\
-![](https://ftbwiki.org/images/thumb/e/ed/Ritual\_The\_Enchantress's\_Spell.png/120px-Ritual\_The\_Enchantress's\_Spell.png)
+![](https://ftbwiki.org/images/thumb/e/ed/Ritual_The_Enchantress's_Spell.png/120px-Ritual_The_Enchantress's_Spell.png)
 
 </details>
 
@@ -282,12 +282,12 @@ _Даёт креативный полёт_:arrow\_up:
 Для активации требуется: <mark style="color:orange;">**Пробуждённый Кристалл Активации**</mark>\
 Количество ритуальных камней - 128\
 Дополнительно:\
-x8 Кристальный колпак ![](https://ftbwiki.org/images/2/28/Grid\_Crystal\_Belljar.png)\
-x4 Алхимическое реле![](https://ftbwiki.org/images/0/04/Grid\_Alchemy\_Relay.png)\
+x8 Кристальный колпак ![](https://ftbwiki.org/images/2/28/Grid_Crystal_Belljar.png)\
+x4 Алхимическое реле![](https://ftbwiki.org/images/0/04/Grid_Alchemy_Relay.png)\
 <mark style="color:green;">**magicales, potentia, incendium, terrae, tenebrae, sanctus, aquasalus, Эфир**</mark> (x16)\
 <mark style="color:red;">**Описание**</mark> - Заполните реагентами 8 Кристальных колпаков и расставьте их по 1 на каждой колонне. Вокруг ритуального камня мастера расставьте 4 Алхимических реле (см. картинку ниже). Свяжите Колпаки с Реле, а сами реле к ритуальному камню мастера с помощью [Алхимического маршрутизатора](alkhimiya.md).\
 Поместите Кровавый алтарь поверх Ритуального Камня Мастера.\
-Как только ритуал будет активирован и все реагенты будут поглощены, используйте **кристалл демона**, чтобы вызвать демона поверх Ритуального Камня Мастера. Затем убейте демона на кровавом алтаре, используя **Кинжал жертвоприношения** ![](https://ftbwiki.org/images/7/7b/Grid\_Dagger\_of\_Sacrifice.png).\
+Как только ритуал будет активирован и все реагенты будут поглощены, используйте **кристалл демона**, чтобы вызвать демона поверх Ритуального Камня Мастера. Затем убейте демона на кровавом алтаре, используя **Кинжал жертвоприношения** ![](https://ftbwiki.org/images/7/7b/Grid_Dagger_of_Sacrifice.png).\
 ![](https://ftbwiki.org/images/e/ec/AlchemyRelayConvocationOfTheDamned.png)![](https://ftbwiki.org/images/d/d7/BelljarAltarConvocationOfTheDamned.png)
 
 </details>
@@ -309,7 +309,7 @@ _Создаёт деревню демонов и блок демоническо
 * Второй слот определяет расстояние выше/ниже ритуала, на которое/от которого должны перемещаться блоки. Эта сумма должна быть как минимум на 3 больше, чем сумма в первом слоте.\
   [_Реагенты_](alkhimiya.md): \
   Terrae - Ставит землю в месте кратера.\
-  ![](https://ftbwiki.org/images/thumb/6/61/Blood\_of\_the\_New\_Moon.PNG/120px-Blood\_of\_the\_New\_Moon.PNG)![](https://ftbwiki.org/images/d/dd/Blood\_of\_the\_New\_Moon\_Chest\_Example.PNG)
+  ![](https://ftbwiki.org/images/thumb/6/61/Blood_of_the_New_Moon.PNG/120px-Blood_of_the_New_Moon.PNG)![](https://ftbwiki.org/images/d/dd/Blood_of_the_New_Moon_Chest_Example.PNG)
 
 </details>
 
@@ -326,7 +326,7 @@ _Поднимает сферу земли в воздух_:arrow\_up:
 <mark style="color:red;">**Описание**</mark> - Ритуал устанавливается вокруг кровавого алтаря. <mark style="color:red;">**Пока он активен устанавливает владельцу 1 сердце**</mark>. \
 [_Реагенты_](alkhimiya.md): \
 Sanctus - Устанавливает владельцу 3 сердца. Работает раз в 10 секунд.\
-![](https://ftbwiki.org/images/9/97/Cry\_of\_the\_Eternal\_Soul.png)![](https://ftbwiki.org/images/2/2a/Cry\_of\_the\_Eternal\_Soul\_Altar.png)
+![](https://ftbwiki.org/images/9/97/Cry_of_the_Eternal_Soul.png)![](https://ftbwiki.org/images/2/2a/Cry_of_the_Eternal_Soul_Altar.png)
 
 ```
 Есть более лучшая альтернатива из мода Blood Arsenal - 
@@ -349,7 +349,7 @@ _Переносит кровь из кровавой сети в кровавы�
 [_Реагенты_](alkhimiya.md): \
 Эфир - Увеличивает радиус до 20\
 Aquasalus - Увеличивает радиус до 15\
-![](https://ftbwiki.org/images/4/48/BM\_Ritual\_DomeOfSuppression.jpg)
+![](https://ftbwiki.org/images/4/48/BM_Ritual_DomeOfSuppression.jpg)
 
 </details>
 
@@ -370,7 +370,7 @@ Aquasalus - Увеличивает радиус до 15\
 * Чтобы усилить эффекты омега-брони, следует использовать глифы вместо обычных блоков для постройки комнаты.
 * Потолок комнаты должен быть полностью закрыт стеклом.
 
-![](https://ftbwiki.org/images/thumb/5/5f/Symmetry\_of\_the\_Omega1.png/120px-Symmetry\_of\_the\_Omega1.png)![](https://ftbwiki.org/images/thumb/f/fd/Symmetry\_of\_the\_Omega2.png/120px-Symmetry\_of\_the\_Omega2.png)\
+![](https://ftbwiki.org/images/thumb/5/5f/Symmetry_of_the_Omega1.png/120px-Symmetry_of_the_Omega1.png)![](https://ftbwiki.org/images/thumb/f/fd/Symmetry_of_the_Omega2.png/120px-Symmetry_of_the_Omega2.png)\
 В зависимости от реагентов, помещённых в колпаки будут разные виды брони. Всего есть 4 вида брони, а аспекты, которые нужны для их создания:\
 Aquasalus / Terrae / Incendium / Эфир
 
@@ -475,7 +475,7 @@ _Кормит игроков_:arrow\_up:
 * Ставьте предметы на пьедесталы согласно рецепту. Нижняя часть рецепта со стороны водяного камня.
 
 Сундук, отмеченный камнем воды - выход, там будет готовая продукция. Остальные три сундука предназначены для сырья.\
-![](broken-reference)
+![](/broken/files/lEMuEwSk5yTEHGsBxqeg)
 
 </details>
 
@@ -515,7 +515,7 @@ Terrae - Увеличивает зону поиска до 7x7\
 Orbis Terrae - Увеличивает зону поиска до 12x12\
 Terrae + Orbis Terrae - Увеличивает зону поиска до 31x31\
 Potentia - Увеличивает скорость до 10 тиков (0.5 секунды)\
-![](https://ftbwiki.org/images/thumb/8/8f/Ritual\_of\_Magnetism.png/800px-Ritual\_of\_Magnetism.png)
+![](https://ftbwiki.org/images/thumb/8/8f/Ritual_of_Magnetism.png/800px-Ritual_of_Magnetism.png)
 
 </details>
 
@@ -537,7 +537,7 @@ Potentia - Удача I\
 Virtus - Удача I\
 Orbis Terrae + Potentia + Virtus - Удача III\
 Crystallos - Шёлковое касание\
-![](https://ftbwiki.org/images/9/97/Ritual\_of\_the\_Crusher.png)
+![](https://ftbwiki.org/images/9/97/Ritual_of_the_Crusher.png)
 
 </details>
 
@@ -551,7 +551,7 @@ _Вскапывает блоки_:arrow\_up:
 Для активации требуется: <mark style="color:orange;">**Пробуждённый Кристалл Активации**</mark>\
 Количество ритуальных камней - 24\
 <mark style="color:red;">**Описание**</mark> - При активации Ритуал накладывает на мобов парализующий эффект в виде сферы радиусом 10. (_Эффект не действует на Слизнях!)_\
-![](https://ftbwiki.org/images/e/e0/Ritual\_of\_Mob\_Oppression.png)
+![](https://ftbwiki.org/images/e/e0/Ritual_of_Mob_Oppression.png)
 
 </details>
 
@@ -571,7 +571,7 @@ _Парализует мобов_:arrow\_up:
 Reductus - Регенерация будет работать только для игроков\
 Virtus - Повышает уровень регенерации, но увеличивает стоимость LP в 3 раза\
 Praesidium - Увеличивает радиус действия в 3 раза.\
-![](https://ftbwiki.org/images/4/41/Ritual\_of\_Regeneration.png)
+![](https://ftbwiki.org/images/4/41/Ritual_of_Regeneration.png)
 
 </details>
 
@@ -592,7 +592,7 @@ Terrae - Уменьшает дальность броска\
 Reductus - Убирает урон от падения во время броска\
 Tenebrae - Ритуал будет подбрасывать только взрослых животных\
 Sanctus - Ритуал будет подбрасывать только детёнышей животных\
-![](https://ftbwiki.org/images/thumb/f/f1/Ritual\_of\_Speed.png/800px-Ritual\_of\_Speed.png)
+![](https://ftbwiki.org/images/thumb/f/f1/Ritual_of_Speed.png/800px-Ritual_of_Speed.png)
 
 </details>
 
@@ -607,7 +607,7 @@ _Подбрасывает игроков/мобов в указанном нап
 **Стоимость Поддержания Активным** -  330 LP/тик за 1 игрока/моба\
 Количество ритуальных камней - 56\
 <mark style="color:red;">**Описание**</mark> - Накладывает Эффект Иссушения на мобов и игроков в области 14x14x14\
-![](https://ftbwiki.org/images/3/36/Ritual\_of\_Withering.png)
+![](https://ftbwiki.org/images/3/36/Ritual_of_Withering.png)
 
 </details>
 
@@ -626,7 +626,7 @@ _Накладывает Эффект Иссушения на мобов и иг�
 Terrae - Увеличивает горизонтальный диапазон до 30\
 Orbis Terrae - Увеличивает горизонтальный диапазон до 45\
 Terrae + Orbis Terrae - Увеличивает горизонтальный диапазон до 64\
-![](https://ftbwiki.org/images/3/37/Ritual\_of\_the\_Feathered\_Earth.png)
+![](https://ftbwiki.org/images/3/37/Ritual_of_the_Feathered_Earth.png)
 
 </details>
 
@@ -670,7 +670,7 @@ Offensa  - Дает утопление всем мобам в радиусе 10 
 Crystallos - Создает снег и лед вокруг ритуала в области 5 x 5 x 5\
 Sanctus - Наполняет резервуар над Ритуальным Камнем Мастера водой.\
 Reductus - Дает владельцу ритуала иммунитет к эффекту утопления\
-![](https://ftbwiki.org/images/thumb/4/4b/Ritual\_of\_the\_Full\_Spring.png/120px-Ritual\_of\_the\_Full\_Spring.png)
+![](https://ftbwiki.org/images/thumb/4/4b/Ritual_of_the_Full_Spring.png/120px-Ritual_of_the_Full_Spring.png)
 
 </details>
 
@@ -687,7 +687,7 @@ _Создаёт источник воды_:arrow\_up:
 <mark style="color:red;">**Описание**</mark> - Создаёт источник лавы над ритуальным камнем мастера. Когда источник воды пропадёт, то ритуал автоматически создаст новый.\
 [_Реагенты_](alkhimiya.md): \
 Sanctus - Заполняет резервуар лавой над Ритуальным Камнем Мастера\
-![](https://ftbwiki.org/images/e/e5/Seranade\_of\_the\_Nether.png)
+![](https://ftbwiki.org/images/e/e5/Seranade_of_the_Nether.png)
 
 </details>
 
@@ -708,7 +708,7 @@ Orbis Terrae - Ускоряет рост урожая\
 Aquasalus - Увлажняет блоки\
 Virtus - Увеличивает дальность Ритуала до 9х9\
 `Бонус к скорости роста у Orbis Terrae немного больше, чем у Terrae. Оба бонуса суммируются.`\
-![](https://ftbwiki.org/images/d/d1/Ritual\_of\_the\_Green\_Grove.png)
+![](https://ftbwiki.org/images/d/d1/Ritual_of_the_Green_Grove.png)
 
 </details>
 
@@ -726,7 +726,7 @@ _Увеличивает скорость роста растений_:arrow\_up:
 [_Реагенты_](alkhimiya.md): \
 Эфир - Увеличивает высоту броска\
 Terrae - Увеличивает диапазон предотвращения урона от падения\
-![](https://ftbwiki.org/images/thumb/6/6d/Ritual\_of\_the\_High\_Jump.png/800px-Ritual\_of\_the\_High\_Jump.png)
+![](https://ftbwiki.org/images/thumb/6/6d/Ritual_of_the_High_Jump.png/800px-Ritual_of_the_High_Jump.png)
 
 </details>
 

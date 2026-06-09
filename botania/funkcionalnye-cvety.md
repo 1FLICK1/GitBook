@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: true
   description:
@@ -10,6 +11,12 @@ layout:
     visible: true
   pagination:
     visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🔹 Функциональные Цветы
@@ -19,11 +26,11 @@ layout:
 {% endhint %}
 
 {% hint style="success" %}
-Для удобного просмотра области действия цветка используйте **Монокль** ![](https://lh7-us.googleusercontent.com/DSQmm6WPTqAHs7M-8P0M13GUptlfxo2cfpAQOTILj\_QqkwNekEDLL7rioVAXvZ-eNNGyaF7JAOZNCBdrW2lnPSG97WOTGXdWANk4R8qLPx5vQyYy\_Q2NOAiPm8aJgnt1yrCAb5vddA4tpNkZfIO4TG4)
+Для удобного просмотра области действия цветка используйте **Монокль** ![](https://lh7-us.googleusercontent.com/DSQmm6WPTqAHs7M-8P0M13GUptlfxo2cfpAQOTILj_QqkwNekEDLL7rioVAXvZ-eNNGyaF7JAOZNCBdrW2lnPSG97WOTGXdWANk4R8qLPx5vQyYy_Q2NOAiPm8aJgnt1yrCAb5vddA4tpNkZfIO4TG4)
 {% endhint %}
 
 {% hint style="success" %}
-Работа цветка может регулироваться сигналом <mark style="color:red;">красного камня</mark>, если в его крафте есть Корень Редстоуна ![](https://lh7-us.googleusercontent.com/6xBMXfB15ILzYGxx0z60hECpOJCK-OapaVKyWDH5kmwPeyAEdC9XZEQwjg\_nWNZ3iMf1cgQpjJsBczyDEuyanUrKoqUczHPrRohlLbF\_peCkh\_W-LFRgCFs\_KJTNg6pmbaVWjdYqxaIn-XlQ3aSnGSM)&#x20;
+Работа цветка может регулироваться сигналом <mark style="color:red;">красного камня</mark>, если в его крафте есть Корень Редстоуна ![](https://lh7-us.googleusercontent.com/6xBMXfB15ILzYGxx0z60hECpOJCK-OapaVKyWDH5kmwPeyAEdC9XZEQwjg_nWNZ3iMf1cgQpjJsBczyDEuyanUrKoqUczHPrRohlLbF_peCkh_W-LFRgCFs_KJTNg6pmbaVWjdYqxaIn-XlQ3aSnGSM)&#x20;
 {% endhint %}
 
 
@@ -33,9 +40,9 @@ layout:
 [^1]: При наличии маны область действия цветка возрастает до 21х21 блоков
 
 [^2]: Скормите цветку любую пчелу с <mark style="color:red;">Низкой породой</mark> и по прошествию \
-    **`15 минут`** вы получите эту же пчелу, но уже с <mark style="color:green;">Чистой породой</mark>
+    &#xNAN;**`15 минут`** вы получите эту же пчелу, но уже с <mark style="color:green;">Чистой породой</mark>
 
-[^3]: <mark style="color:red;">**На проекте**</mark>** **<mark style="color:yellow;">**Loliland**</mark>** **<mark style="color:red;">**функционал цветка отключён!**</mark>
+[^3]: <mark style="color:red;">**На проекте**</mark>**&#x20;**<mark style="color:yellow;">**Loliland**</mark>**&#x20;**<mark style="color:red;">**функционал цветка отключён!**</mark>
 
 [^4]: Предотвращает телепортацию любого эндермена, вместо этого он будет телепортирован на позицию цветка
 

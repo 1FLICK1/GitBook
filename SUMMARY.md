@@ -37,7 +37,6 @@
   * [Приспособления](mekanism/prisposobleniya.md)
 * [♦️ DivineRPG](divinerpg.md)
 * [♦️ Thaumcraft](thaumcraft.md)
-* [🪐 Таблица Дропа Душ](tablica-dropa-dush.md)
 * [📌 Дополнительный Контент](dopolnitelnyi-kontent/README.md)
   * [🏷️ Blood Magic](dopolnitelnyi-kontent/blood-magic.md)
   * [🏷️ Botania](dopolnitelnyi-kontent/botania.md)

@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: true
   description:
@@ -10,6 +11,12 @@ layout:
     visible: true
   pagination:
     visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🟠 Знакомство с модом
@@ -19,18 +26,18 @@ layout:
 ## Первая добыча крови
 
 Начнём с самого простого: первая кровь. Для её получения нам понадобится\
-1\. Жертвенный кинжал ![](https://lh7-us.googleusercontent.com/Iq28fJY\_qVmmYvEV2hBmsUu-maFE9ZqvqFbob5wBc13Rp\_DPAGyDYMneEBoi9-9wOKop31IHPxv-AeCwGow5gK0A0bCmZynsfpBiX5p6aKatBGzRM45ykIKpOq59KCrvmpBKU0pWlrW6vi6VG5ac-8A)\
+1\. Жертвенный кинжал ![](https://lh7-us.googleusercontent.com/Iq28fJY_qVmmYvEV2hBmsUu-maFE9ZqvqFbob5wBc13Rp_DPAGyDYMneEBoi9-9wOKop31IHPxv-AeCwGow5gK0A0bCmZynsfpBiX5p6aKatBGzRM45ykIKpOq59KCrvmpBKU0pWlrW6vi6VG5ac-8A)\
 2\. Кровавый алтарь ![](https://lh7-us.googleusercontent.com/OyDcfaPrLhQQ8MVHWqIFit8hwvHXmqGFZ4IAZmkb79PR0J8aXB19HbJalF-6z7BpKK1OPabzXYPbnf1lomQIN-nA5lzS--UFIG8UIvKNndOgS7166WxvRz3WDwAzYCJ-5i-e584wVAftT5H3BQXjU8k)\
 Ставим кровавый алтарь, берём кинжал и кликаем ПКМ. За 1 сердце мы получим 200 LP (_Life Point)_ жизненной эссенции. Так вы можете кликать вплоть до своей <mark style="color:red;">**смерти**</mark>.
 
 :pushpin: [<mark style="color:yellow;">**`Способы быстрой добычи крови на начальном этапе игры`**</mark>](../dopolnitelnyi-kontent/blood-magic.md#bystraya-dobycha-krovi)
 
 {% hint style="success" %}
-Используйте **Сигил Предсказания** для просмотра информации о Алтаре ![](https://lh7-us.googleusercontent.com/V9afUMEDxb8LUAQKKMMxs2S-oxs1zoo5jUWAIrYhZIO16arBmObWsEm\_BCYf-ZX5NY6\_KfXZQySquNmKZ4mLdowpYvgauy9GYnoSJ-rQqxnIB974l-aaRmLjjf5YKA\_ZUk9picZ-7Z0gPgK9uH-Na1s)
+Используйте **Сигил Предсказания** для просмотра информации о Алтаре ![](https://lh7-us.googleusercontent.com/V9afUMEDxb8LUAQKKMMxs2S-oxs1zoo5jUWAIrYhZIO16arBmObWsEm_BCYf-ZX5NY6_KfXZQySquNmKZ4mLdowpYvgauy9GYnoSJ-rQqxnIB974l-aaRmLjjf5YKA_ZUk9picZ-7Z0gPgK9uH-Na1s)
 {% endhint %}
 
 {% hint style="success" %}
-Используйте **Сигил Зрения** для просмотра Прогресса создания, Скорости потребления и Текущее количество Крови в Алтаре ![](https://lh7-us.googleusercontent.com/3DBb5zEE0NWeg-ImlViIzRMXywXNQQ9KAZGFt3W-OteZbp8zSPOr7S1H-oucjfptBQEfWcryOqhZJ6dZV4kkjdNdyGMsbgdYsi\_emfwwJ2KzIwcd3TFaJSd4K5LMer0\_fN7mFWsW7M2a3De7mK4P5Rg)
+Используйте **Сигил Зрения** для просмотра Прогресса создания, Скорости потребления и Текущее количество Крови в Алтаре ![](https://lh7-us.googleusercontent.com/3DBb5zEE0NWeg-ImlViIzRMXywXNQQ9KAZGFt3W-OteZbp8zSPOr7S1H-oucjfptBQEfWcryOqhZJ6dZV4kkjdNdyGMsbgdYsi_emfwwJ2KzIwcd3TFaJSd4K5LMer0_fN7mFWsW7M2a3De7mK4P5Rg)
 {% endhint %}
 
 ## Первые крафты
@@ -40,25 +47,25 @@ layout:
 <figure><img src="https://lh7-us.googleusercontent.com/jZ4EWSZ8U9-4fh9RolnFO281_dzwb1xctKyYDv05PPePBGbUUsPmnWD9oeq_4J4qm7wlFNGA3D9ajgX0xjuhi9YZ35wBcpiV06bT3hA5aOXrgrrkUmlE-1g1rGFoHwE5nuo96m1yQZCXt76rYkqThT8" alt=""><figcaption><p>Пример крафта на кровавом алтаре</p></figcaption></figure>
 
 <mark style="color:red;">**Красным цветом**</mark> выделен слот для сырья. \
-_Чтобы положить предмет в этот слот нужно кликнуть ПКМ нужным предметом по алтарю_.\
+&#xNAN;_&#x427;тобы положить предмет в этот слот нужно кликнуть ПКМ нужным предметом по алтарю_.\
 <mark style="color:yellow;">**Жёлтым цветом**</mark> выделен слот для продукции.\
-_По окончанию крафта вы получите этот предмет._\
+&#xNAN;_&#x41F;о окончанию крафта вы получите этот предмет._\
 \
 **Условия**, которые необходимы для крафта:\
 `Уровень: 1` - показывает необходимый уровень алтаря для крафта предмета.\
 `LP: 1000` - показывает необходимое количество крови в алтаре для крафта предмета.
 
 {% hint style="success" %}
-Используйте **Сигил Зрения** для просмотра стадии крафта предмета. ![](https://lh7-us.googleusercontent.com/3DBb5zEE0NWeg-ImlViIzRMXywXNQQ9KAZGFt3W-OteZbp8zSPOr7S1H-oucjfptBQEfWcryOqhZJ6dZV4kkjdNdyGMsbgdYsi\_emfwwJ2KzIwcd3TFaJSd4K5LMer0\_fN7mFWsW7M2a3De7mK4P5Rg)
+Используйте **Сигил Зрения** для просмотра стадии крафта предмета. ![](https://lh7-us.googleusercontent.com/3DBb5zEE0NWeg-ImlViIzRMXywXNQQ9KAZGFt3W-OteZbp8zSPOr7S1H-oucjfptBQEfWcryOqhZJ6dZV4kkjdNdyGMsbgdYsi_emfwwJ2KzIwcd3TFaJSd4K5LMer0_fN7mFWsW7M2a3De7mK4P5Rg)
 {% endhint %}
 
-Второй способ создавать предметы - **`Алхимическая и химическая установка`** ![](https://lh7-us.googleusercontent.com/U2eCsiKdFwjPS-psc2Fh5bFget2HHYv9lfEWz6F\_CwBSpJbPxTs\_4slp5XFbUmz\_eVwl-jch6wKN8z2FzaqHrb5NhpNQ7PlxajAd24svKysK2CImKVWns8d8E-g9ZYAHZrwbGL7lCCX8euEI6BRMuWU)
+Второй способ создавать предметы - **`Алхимическая и химическая установка`** ![](https://lh7-us.googleusercontent.com/U2eCsiKdFwjPS-psc2Fh5bFget2HHYv9lfEWz6F_CwBSpJbPxTs_4slp5XFbUmz_eVwl-jch6wKN8z2FzaqHrb5NhpNQ7PlxajAd24svKysK2CImKVWns8d8E-g9ZYAHZrwbGL7lCCX8euEI6BRMuWU)
 
 <figure><img src="https://lh7-us.googleusercontent.com/oQLG8ueX0Av6x7iY4tSSjBIAjkGnsaS3F1WgTVpZ5JyTH4CxyuVhp5Pj9mqsC3rL0XbcFf0rOzH9r77spVN9Iy0KypuMviejoogY4CBLei4Ga7DHRo-3T1W8Uluz6BrWkbs1BQ2BtPJvCEBILfYf7tU" alt=""><figcaption><p>Пример крафта в алхимической и химической установке</p></figcaption></figure>
 
 <mark style="color:red;">**Красным цветом**</mark> выделены слоты для сырья\
 <mark style="color:yellow;">**Жёлтым цветом**</mark> выделен слот для продукции.\
-_По окончанию крафта вы получите этот предмет._\
+&#xNAN;_&#x41F;о окончанию крафта вы получите этот предмет._\
 \
 **Условия**, которые необходимы для крафта:\
 `200 LP` - нужное количество **LP** из **Кровавой сети**\
